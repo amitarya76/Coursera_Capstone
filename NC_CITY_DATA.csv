@@ -1,0 +1,737 @@
+city,city_ascii,state_id,state_name,county_fips,county_name,county_fips_all,county_name_all,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id
+Trenton,Trenton,NC,North Carolina,37103,Jones,37103,Jones,35.064,-77.3553,285,484,polygon,FALSE,TRUE,America/New_York,3,28585,1840016445
+Stanfield,Stanfield,NC,North Carolina,37167,Stanly,37167,Stanly,35.2336,-80.4303,1517,131,polygon,FALSE,TRUE,America/New_York,3,28163,1840016365
+Sanford,Sanford,NC,North Carolina,37105,Lee,37105,Lee,35.4874,-79.1772,34557,389,polygon,FALSE,TRUE,America/New_York,3,27330 27332 27331,1840015421
+Cofield,Cofield,NC,North Carolina,37091,Hertford,37091,Hertford,36.3567,-76.9105,382,46,polygon,FALSE,TRUE,America/New_York,3,27922,1840017704
+Thomasville,Thomasville,NC,North Carolina,37057,Davidson,37057,Davidson,35.8813,-80.0807,26615,612,polygon,FALSE,TRUE,America/New_York,3,27360 27361,1840015361
+Aurora,Aurora,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.303,-76.7889,512,212,polygon,FALSE,TRUE,America/New_York,3,27806,1840015398
+Casar,Casar,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.5127,-81.6168,293,64,polygon,FALSE,TRUE,America/New_York,3,28020,1840016333
+Mebane,Mebane,NC,North Carolina,37001,Alamance,37001|37135,Alamance|Orange,36.0876,-79.2756,14973,633,polygon,FALSE,TRUE,America/New_York,3,27302,1840015328
+Vass,Vass,NC,North Carolina,37125,Moore,37125,Moore,35.2533,-79.2845,774,93,polygon,FALSE,TRUE,America/New_York,3,28394,1840016357
+Forest Hills,Forest Hills,NC,North Carolina,37099,Jackson,37099,Jackson,35.2958,-83.1954,382,297,polygon,FALSE,TRUE,America/New_York,3,28723,1840001769
+Cape Carteret,Cape Carteret,NC,North Carolina,37031,Carteret,37031,Carteret,34.6973,-77.0572,2062,315,polygon,FALSE,TRUE,America/New_York,3,28584,1840015498
+Lowgap,Lowgap,NC,North Carolina,37171,Surry,37171,Surry,36.5233,-80.8671,359,121,polygon,FALSE,FALSE,America/New_York,3,27024,1840025761
+Greenevers,Greenevers,NC,North Carolina,37061,Duplin,37061,Duplin,34.8271,-77.9247,638,157,polygon,FALSE,TRUE,America/New_York,3,28458,1840016469
+Lillington,Lillington,NC,North Carolina,37085,Harnett,37085,Harnett,35.3999,-78.814,3719,300,polygon,FALSE,TRUE,America/New_York,3,27546,1840016326
+Gorman,Gorman,NC,North Carolina,37063,Durham,37063,Durham,36.0418,-78.8091,807,108,polygon,FALSE,FALSE,America/New_York,3,27704,1840013363
+Colerain,Colerain,NC,North Carolina,37015,Bertie,37015,Bertie,36.2015,-76.7663,183,268,polygon,FALSE,TRUE,America/New_York,3,27924,1840016149
+Liberty,Liberty,NC,North Carolina,37151,Randolph,37151,Randolph,35.8556,-79.5682,2659,327,polygon,FALSE,TRUE,America/New_York,3,27298,1840016252
+Bakersville,Bakersville,NC,North Carolina,37121,Mitchell,37121,Mitchell,36.0154,-82.1582,445,226,polygon,FALSE,TRUE,America/New_York,3,28705,1840015345
+New London,New London,NC,North Carolina,37167,Stanly,37167,Stanly,35.4346,-80.2198,611,121,polygon,FALSE,TRUE,America/New_York,3,28127,1840016366
+High Point,High Point,NC,North Carolina,37081,Guilford,37081|37057|37151|37067,Guilford|Davidson|Randolph|Forsyth,35.9905,-79.9937,177874,771,polygon,FALSE,TRUE,America/New_York,2,27282 27235 27262 27263 27265 27260 27261 27264 27268,1840014479
+Pineville,Pineville,NC,North Carolina,37119,Mecklenburg,37119,Mecklenburg,35.0864,-80.8915,8746,508,polygon,FALSE,TRUE,America/New_York,3,28134,1840016354
+Grandfather,Grandfather,NC,North Carolina,37011,Avery,37011,Avery,36.0987,-81.8482,24,5,polygon,FALSE,TRUE,America/New_York,3,28646,1840033009
+Midway,Midway,NC,North Carolina,37057,Davidson,37057,Davidson,35.9751,-80.2204,4792,237,polygon,FALSE,TRUE,America/New_York,3,27127 27107,1840022708
+Snow Hill,Snow Hill,NC,North Carolina,37079,Greene,37079,Greene,35.4505,-77.6768,1526,382,polygon,FALSE,TRUE,America/New_York,3,28580,1840017829
+Angier,Angier,NC,North Carolina,37085,Harnett,37085,Harnett,35.5105,-78.7394,5091,680,polygon,FALSE,TRUE,America/New_York,3,27501,1840015423
+East Spencer,East Spencer,NC,North Carolina,37159,Rowan,37159,Rowan,35.6821,-80.4275,1550,376,polygon,FALSE,TRUE,America/New_York,3,28039 28144,1840016266
+Advance,Advance,NC,North Carolina,37059,Davie,37059,Davie,35.9468,-80.4045,726,39,polygon,FALSE,FALSE,America/New_York,3,27006,1840024909
+Franklinton,Franklinton,NC,North Carolina,37069,Franklin,37069,Franklin,36.1011,-78.4522,2132,514,polygon,FALSE,TRUE,America/New_York,3,27525,1840016118
+Norwood,Norwood,NC,North Carolina,37167,Stanly,37167,Stanly,35.2338,-80.1142,2409,203,polygon,FALSE,TRUE,America/New_York,3,28128,1840016367
+Grifton,Grifton,NC,North Carolina,37147,Pitt,37147|37107,Pitt|Lenoir,35.3804,-77.4334,3752,500,polygon,FALSE,TRUE,America/New_York,3,28530,1840016277
+Grover,Grover,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.1735,-81.452,699,282,polygon,FALSE,TRUE,America/New_York,3,28073,1840016336
+Nags Head,Nags Head,NC,North Carolina,37055,Dare,37055,Dare,35.9475,-75.6275,2904,170,polygon,FALSE,TRUE,America/New_York,3,27959,1840016492
+Lowesville,Lowesville,NC,North Carolina,37109,Lincoln,37109,Lincoln,35.4193,-80.9999,2971,168,polygon,FALSE,FALSE,America/New_York,3,28164,1840013436
+Morrisville,Morrisville,NC,North Carolina,37183,Wake,37183,Wake,35.8366,-78.8348,26461,1177,polygon,FALSE,TRUE,America/New_York,3,27560,1840016195
+Piney Green,Piney Green,NC,North Carolina,37133,Onslow,37133,Onslow,34.7498,-77.3209,13573,384,polygon,FALSE,FALSE,America/New_York,3,28546 28544,1840013558
+Navassa,Navassa,NC,North Carolina,37019,Brunswick,37019,Brunswick,34.283,-78.029,1895,54,polygon,FALSE,TRUE,America/New_York,3,28451,1840016687
+Farmville,Farmville,NC,North Carolina,37147,Pitt,37147,Pitt,35.5955,-77.5913,4868,539,polygon,FALSE,TRUE,America/New_York,3,27828,1840016275
+Kannapolis,Kannapolis,NC,North Carolina,37025,Cabarrus,37025|37159,Cabarrus|Rowan,35.4764,-80.6403,48806,577,polygon,FALSE,TRUE,America/New_York,3,28027 28083 28081 28082,1840014560
+South Mills,South Mills,NC,North Carolina,37029,Camden,37029,Camden,36.4379,-76.3308,192,41,polygon,FALSE,FALSE,America/New_York,3,27976,1840025766
+Myrtle Grove,Myrtle Grove,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.123,-77.8834,10610,610,polygon,FALSE,FALSE,America/New_York,3,28409,1840013632
+Rose Hill,Rose Hill,NC,North Carolina,37061,Duplin,37061,Duplin,34.8263,-78.0259,1635,439,polygon,FALSE,TRUE,America/New_York,3,28458,1840017883
+Bunn,Bunn,NC,North Carolina,37069,Franklin,37069,Franklin,35.9591,-78.2519,366,261,polygon,FALSE,TRUE,America/New_York,3,27508,1840015321
+Davis,Davis,NC,North Carolina,37031,Carteret,37031,Carteret,34.7996,-76.4641,350,61,polygon,FALSE,FALSE,America/New_York,3,28524,1840025836
+Pumpkin Center,Pumpkin Center,NC,North Carolina,37133,Onslow,37133,Onslow,34.786,-77.3642,1478,450,polygon,FALSE,FALSE,America/New_York,3,28546,1840013559
+Black Mountain,Black Mountain,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.6142,-82.3275,8150,470,polygon,FALSE,TRUE,America/New_York,3,28711 28770,1840015392
+Knightdale,Knightdale,NC,North Carolina,37183,Wake,37183,Wake,35.7917,-78.4966,15849,892,polygon,FALSE,TRUE,America/New_York,3,27610 27545,1840016194
+Denver,Denver,NC,North Carolina,37109,Lincoln,37109,Lincoln,35.5344,-81.034,2727,177,polygon,FALSE,FALSE,America/New_York,3,28037,1840024951
+Rockingham,Rockingham,NC,North Carolina,37153,Richmond,37153,Richmond,34.9386,-79.7608,23513,447,polygon,FALSE,TRUE,America/New_York,3,28379 28380,1840014617
+Richlands,Richlands,NC,North Carolina,37133,Onslow,37133,Onslow,34.9003,-77.5427,1698,402,polygon,FALSE,TRUE,America/New_York,3,28574,1840017901
+Proctorville,Proctorville,NC,North Carolina,37155,Robeson,37155,Robeson,34.4751,-79.037,117,99,polygon,FALSE,TRUE,America/New_York,3,28375 28369,1840017905
+Concord,Concord,NC,North Carolina,37025,Cabarrus,37025,Cabarrus,35.3932,-80.6363,250186,563,polygon,FALSE,TRUE,America/New_York,2,28025 28027 28026,1840014559
+Stovall,Stovall,NC,North Carolina,37077,Granville,37077,Granville,36.4475,-78.5689,413,152,polygon,FALSE,TRUE,America/New_York,3,27582 27565,1840016052
+Fairmont,Fairmont,NC,North Carolina,37155,Robeson,37155,Robeson,34.4947,-79.1135,2458,368,polygon,FALSE,TRUE,America/New_York,3,28340,1840016538
+Hookerton,Hookerton,NC,North Carolina,37079,Greene,37079,Greene,35.423,-77.5895,392,474,polygon,FALSE,TRUE,America/New_York,3,28538,1840016313
+Manns Harbor,Manns Harbor,NC,North Carolina,37055,Dare,37055,Dare,35.8934,-75.7733,1021,96,polygon,FALSE,FALSE,America/New_York,3,27953,1840025784
+Ocean Isle Beach,Ocean Isle Beach,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.9011,-78.4393,612,63,polygon,FALSE,TRUE,America/New_York,3,28469,1840016689
+McAdenville,McAdenville,NC,North Carolina,37071,Gaston,37071,Gaston,35.2652,-81.0805,660,188,polygon,FALSE,TRUE,America/New_York,3,28101 28098,1840016394
+Barker Ten Mile,Barker Ten Mile,NC,North Carolina,37155,Robeson,37155,Robeson,34.6825,-78.9889,936,158,polygon,FALSE,FALSE,America/New_York,3,28358,1840033014
+Glen Raven,Glen Raven,NC,North Carolina,37001,Alamance,37001,Alamance,36.1247,-79.4649,2841,312,polygon,FALSE,FALSE,America/New_York,3,27217,1840013357
+Hildebran,Hildebran,NC,North Carolina,37023,Burke,37023,Burke,35.7181,-81.4211,2007,273,polygon,FALSE,TRUE,America/New_York,3,28637,1840016230
+West Jefferson,West Jefferson,NC,North Carolina,37009,Ashe,37009,Ashe,36.3944,-81.4898,1290,229,polygon,FALSE,TRUE,America/New_York,3,28694,1840016029
+Glenville,Glenville,NC,North Carolina,37099,Jackson,37099,Jackson,35.1718,-83.1273,76,21,polygon,FALSE,FALSE,America/New_York,3,28736,1840025822
+East Laurinburg,East Laurinburg,NC,North Carolina,37165,Scotland,37165,Scotland,34.7691,-79.445,281,572,polygon,FALSE,TRUE,America/New_York,3,28352,1840016500
+Cedar Rock,Cedar Rock,NC,North Carolina,37027,Caldwell,37027,Caldwell,35.9436,-81.458,295,97,polygon,FALSE,TRUE,America/New_York,3,28645,1840017756
+Leggett,Leggett,NC,North Carolina,37065,Edgecombe,37065,Edgecombe,35.9896,-77.58,56,30,polygon,FALSE,TRUE,America/New_York,3,27886,1840016174
+Wagram,Wagram,NC,North Carolina,37165,Scotland,37165,Scotland,34.8891,-79.3652,787,208,polygon,FALSE,TRUE,America/New_York,3,28396,1840016502
+Efland,Efland,NC,North Carolina,37135,Orange,37135,Orange,36.0806,-79.1718,921,199,polygon,FALSE,FALSE,America/New_York,3,27243,1840025778
+Winterville,Winterville,NC,North Carolina,37147,Pitt,37147,Pitt,35.5288,-77.3994,9654,805,polygon,FALSE,TRUE,America/New_York,3,28590,1840016279
+Hays,Hays,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.2469,-81.1142,1762,110,polygon,FALSE,FALSE,America/New_York,3,28635 28659,1840013337
+Princeton,Princeton,NC,North Carolina,37101,Johnston,37101,Johnston,35.4669,-78.1612,1333,467,polygon,FALSE,TRUE,America/New_York,3,27569,1840017793
+Seagrove,Seagrove,NC,North Carolina,37151,Randolph,37151,Randolph,35.5398,-79.7789,227,82,polygon,FALSE,TRUE,America/New_York,3,27341,1840017781
+Godwin,Godwin,NC,North Carolina,37051,Cumberland,37051,Cumberland,35.2133,-78.677,140,104,polygon,FALSE,TRUE,America/New_York,3,28344,1840016441
+Davidson,Davidson,NC,North Carolina,37119,Mecklenburg,37119,Mecklenburg,35.4862,-80.8271,12684,846,polygon,FALSE,TRUE,America/New_York,3,28036 28035,1840016353
+Elizabeth City,Elizabeth City,NC,North Carolina,37139,Pasquotank,37139,Pasquotank,36.2942,-76.236,22717,588,polygon,FALSE,TRUE,America/New_York,3,27909 27906 27907,1840013315
+Hallsboro,Hallsboro,NC,North Carolina,37047,Columbus,37047,Columbus,34.3189,-78.5934,408,48,polygon,FALSE,FALSE,America/New_York,3,28442,1840025858
+Maiden,Maiden,NC,North Carolina,37035,Catawba,37035,Catawba,35.5853,-81.2201,3690,238,polygon,FALSE,TRUE,America/New_York,3,28658 28650,1840016281
+Cramerton,Cramerton,NC,North Carolina,37071,Gaston,37071,Gaston,35.2344,-81.0735,4376,440,polygon,FALSE,TRUE,America/New_York,3,28032 28012,1840016395
+Dover,Dover,NC,North Carolina,37049,Craven,37049,Craven,35.2155,-77.4337,393,158,polygon,FALSE,TRUE,America/New_York,3,28526,1840016400
+Hoopers Creek,Hoopers Creek,NC,North Carolina,37089,Henderson,37089,Henderson,35.4481,-82.4294,1268,70,polygon,FALSE,FALSE,America/New_York,3,28732,1840024956
+Horse Shoe,Horse Shoe,NC,North Carolina,37089,Henderson,37089,Henderson,35.3423,-82.5568,2455,127,polygon,FALSE,FALSE,America/New_York,3,28791 28742 28739,1840024957
+Greenville,Greenville,NC,North Carolina,37147,Pitt,37147,Pitt,35.5956,-77.3768,128385,998,polygon,FALSE,TRUE,America/New_York,2,27834 27858 27833 27835 27836,1840013407
+Hendersonville,Hendersonville,NC,North Carolina,37089,Henderson,37089,Henderson,35.3241,-82.4578,13954,742,polygon,FALSE,TRUE,America/New_York,3,28792 28791 28739 28793,1840014561
+Roxobel,Roxobel,NC,North Carolina,37015,Bertie,37015,Bertie,36.2015,-77.2398,215,79,polygon,FALSE,TRUE,America/New_York,3,27872,1840017738
+Pollocksville,Pollocksville,NC,North Carolina,37103,Jones,37103,Jones,35.0055,-77.2212,288,358,polygon,FALSE,TRUE,America/New_York,3,28573,1840016446
+St. Helena,St. Helena,NC,North Carolina,37141,Pender,37141,Pender,34.5166,-77.9174,424,29,polygon,FALSE,TRUE,America/New_York,3,28425,1840017926
+Silver Lake,Silver Lake,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.1408,-77.909,6669,1044,polygon,FALSE,FALSE,America/New_York,3,28412,1840032901
+Polkville,Polkville,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.4163,-81.644,540,112,polygon,FALSE,TRUE,America/New_York,3,28150,1840014551
+Troutman,Troutman,NC,North Carolina,37097,Iredell,37097,Iredell,35.6871,-80.8832,2680,186,polygon,FALSE,TRUE,America/New_York,3,28166,1840016217
+Earl,Earl,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.1954,-81.534,257,115,polygon,FALSE,TRUE,America/New_York,3,28073 28152,1840016334
+Lexington,Lexington,NC,North Carolina,37057,Davidson,37057,Davidson,35.8017,-80.2682,18775,403,polygon,FALSE,TRUE,America/New_York,3,27292 27295 27294,1840015360
+Patterson Springs,Patterson Springs,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.233,-81.5162,617,261,polygon,FALSE,TRUE,America/New_York,3,28073 28152,1840016338
+Dortches,Dortches,NC,North Carolina,37127,Nash,37127,Nash,36.0114,-77.8572,943,45,polygon,FALSE,TRUE,America/New_York,3,27809 27804,1840016165
+Huntersville,Huntersville,NC,North Carolina,37119,Mecklenburg,37119,Mecklenburg,35.4057,-80.8729,56212,535,polygon,FALSE,TRUE,America/New_York,3,28078 28070,1840016349
+Old Hundred,Old Hundred,NC,North Carolina,37165,Scotland,37165,Scotland,34.8246,-79.5922,360,143,polygon,FALSE,FALSE,America/New_York,3,28351,1840024991
+Burnsville,Burnsville,NC,North Carolina,37199,Yancey,37199,Yancey,35.9164,-82.2974,1638,401,polygon,FALSE,TRUE,America/New_York,3,28714,1840015353
+Wanchese,Wanchese,NC,North Carolina,37055,Dare,37055,Dare,35.8396,-75.6379,1619,133,polygon,FALSE,FALSE,America/New_York,3,27981,1840013370
+Ellerbe,Ellerbe,NC,North Carolina,37153,Richmond,37153,Richmond,35.0718,-79.7595,980,287,polygon,FALSE,TRUE,America/New_York,3,28338,1840016475
+Flat Rock,Flat Rock,NC,North Carolina,37089,Henderson,37089,Henderson,35.2678,-82.4526,3331,158,polygon,FALSE,TRUE,America/New_York,3,28739 28731,1840017857
+Boardman,Boardman,NC,North Carolina,37047,Columbus,37047,Columbus,34.4365,-78.9468,155,19,polygon,FALSE,TRUE,America/New_York,3,28438,1840015567
+Vander,Vander,NC,North Carolina,37051,Cumberland,37051,Cumberland,35.0347,-78.7888,1227,127,polygon,FALSE,FALSE,America/New_York,3,28312,1840013489
+Prospect,Prospect,NC,North Carolina,37155,Robeson,37155,Robeson,34.7358,-79.2251,931,91,polygon,FALSE,FALSE,America/New_York,3,28372 28364,1840033013
+Alamance,Alamance,NC,North Carolina,37001,Alamance,37001,Alamance,36.0283,-79.4894,1015,515,polygon,FALSE,TRUE,America/New_York,3,27201 27215,1840017736
+Goldsboro,Goldsboro,NC,North Carolina,37191,Wayne,37191,Wayne,35.3777,-77.972,58972,476,polygon,FALSE,TRUE,America/New_York,3,27534 27530 27531 27532 27533,1840013432
+Hope Mills,Hope Mills,NC,North Carolina,37051,Cumberland,37051,Cumberland,34.9689,-78.9559,16135,841,polygon,FALSE,TRUE,America/New_York,3,28348 28306,1840016438
+Laurel Park,Laurel Park,NC,North Carolina,37089,Henderson,37089,Henderson,35.3118,-82.5039,2315,319,polygon,FALSE,TRUE,America/New_York,3,28739,1840016369
+Roper,Roper,NC,North Carolina,37187,Washington,37187,Washington,35.8786,-76.617,562,253,polygon,FALSE,TRUE,America/New_York,3,27970,1840017778
+Ruffin,Ruffin,NC,North Carolina,37157,Rockingham,37157,Rockingham,36.4428,-79.5433,419,35,polygon,FALSE,FALSE,America/New_York,3,27326,1840025767
+Dellview,Dellview,NC,North Carolina,37071,Gaston,37071,Gaston,35.3865,-81.4127,7,23,polygon,FALSE,TRUE,America/New_York,3,28021,1840016397
+Swansboro,Swansboro,NC,North Carolina,37133,Onslow,37133,Onslow,34.6957,-77.1356,19686,589,polygon,FALSE,TRUE,America/New_York,3,28584,1840016532
+Belhaven,Belhaven,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.5428,-76.6232,1580,383,polygon,FALSE,TRUE,America/New_York,3,27810,1840015400
+Westport,Westport,NC,North Carolina,37109,Lincoln,37109,Lincoln,35.5103,-80.9784,3942,414,polygon,FALSE,FALSE,America/New_York,3,28037,1840013435
+Bowmore,Bowmore,NC,North Carolina,37093,Hoke,37093,Hoke,34.9358,-79.2999,55,6,polygon,FALSE,FALSE,America/New_York,3,28376,1840013505
+Gamewell,Gamewell,NC,North Carolina,37027,Caldwell,37027,Caldwell,35.8637,-81.5979,3971,188,polygon,FALSE,TRUE,America/New_York,3,28645,1840016188
+Oak Ridge,Oak Ridge,NC,North Carolina,37081,Guilford,37081,Guilford,36.1738,-79.992,6917,164,polygon,FALSE,TRUE,America/New_York,3,27284 27310,1840016141
+Dobson,Dobson,NC,North Carolina,37171,Surry,37171,Surry,36.3927,-80.7238,1556,299,polygon,FALSE,TRUE,America/New_York,3,27017,1840016030
+Mount Gilead,Mount Gilead,NC,North Carolina,37123,Montgomery,37123,Montgomery,35.2162,-80.0046,1161,128,polygon,FALSE,TRUE,America/New_York,3,27306,1840016359
+Belwood,Belwood,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.4794,-81.5227,943,29,polygon,FALSE,TRUE,America/New_York,3,28090,1840015424
+Harmony,Harmony,NC,North Carolina,37097,Iredell,37097,Iredell,35.9591,-80.7735,572,163,polygon,FALSE,TRUE,America/New_York,3,28634,1840016216
+Gerton,Gerton,NC,North Carolina,37089,Henderson,37089,Henderson,35.4758,-82.3504,302,31,polygon,FALSE,FALSE,America/New_York,3,28735,1840025824
+Indian Trail,Indian Trail,NC,North Carolina,37179,Union,37179,Union,35.0699,-80.6453,38980,680,polygon,FALSE,TRUE,America/New_York,3,28104 28110 28079,1840016453
+Half Moon,Half Moon,NC,North Carolina,37133,Onslow,37133,Onslow,34.8298,-77.4591,7696,400,polygon,FALSE,FALSE,America/New_York,3,28546 28540,1840013556
+Creedmoor,Creedmoor,NC,North Carolina,37077,Granville,37077,Granville,36.1224,-78.6764,4518,333,polygon,FALSE,TRUE,America/New_York,3,27522,1840014434
+Maggie Valley,Maggie Valley,NC,North Carolina,37087,Haywood,37087,Haywood,35.524,-83.0642,1199,142,polygon,FALSE,TRUE,America/New_York,3,28751 28785,1840016295
+Moncure,Moncure,NC,North Carolina,37037,Chatham,37037,Chatham,35.6239,-79.0768,736,60,polygon,FALSE,FALSE,America/New_York,3,27559,1840025794
+Germanton,Germanton,NC,North Carolina,37067,Forsyth,37067|37169,Forsyth|Stokes,36.2587,-80.236,853,188,polygon,FALSE,FALSE,America/New_York,3,27019,1840024898
+Spencer,Spencer,NC,North Carolina,37159,Rowan,37159,Rowan,35.6987,-80.425,3256,409,polygon,FALSE,TRUE,America/New_York,3,28144 28159,1840017787
+Fontana Dam,Fontana Dam,NC,North Carolina,37075,Graham,37075,Graham,35.4328,-83.8248,7,4,polygon,FALSE,TRUE,America/New_York,3,28771 28733,1840043448
+Newton,Newton,NC,North Carolina,37035,Catawba,37035,Catawba,35.6631,-81.2332,13098,367,polygon,FALSE,TRUE,America/New_York,3,28658,1840014523
+Ranlo,Ranlo,NC,North Carolina,37071,Gaston,37071,Gaston,35.2889,-81.1293,3599,765,polygon,FALSE,TRUE,America/New_York,3,28054,1840017864
+Falcon,Falcon,NC,North Carolina,37051,Cumberland,37051,Cumberland,35.1937,-78.6489,312,87,polygon,FALSE,TRUE,America/New_York,3,28342 28344 28334,1840016440
+Rolesville,Rolesville,NC,North Carolina,37183,Wake,37183,Wake,35.9241,-78.466,7666,637,polygon,FALSE,TRUE,America/New_York,3,27571 27587,1840017759
+Pinehurst,Pinehurst,NC,North Carolina,37125,Moore,37125,Moore,35.1922,-79.4682,44299,372,polygon,FALSE,TRUE,America/New_York,3,28374 28370,1840017852
+Denton,Denton,NC,North Carolina,37057,Davidson,37057,Davidson,35.6378,-80.1106,1657,305,polygon,FALSE,TRUE,America/New_York,3,27239,1840016223
+Franklinville,Franklinville,NC,North Carolina,37151,Randolph,37151,Randolph,35.7421,-79.6893,1175,279,polygon,FALSE,TRUE,America/New_York,3,27316 27248,1840016253
+Woodlawn,Woodlawn,NC,North Carolina,37001,Alamance,37001,Alamance,36.1158,-79.2898,853,99,polygon,FALSE,FALSE,America/New_York,3,27302,1840134907
+Oak Island,Oak Island,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.9433,-78.1366,12890,161,polygon,FALSE,TRUE,America/New_York,3,28422 28465,1840016688
+Tar Heel,Tar Heel,NC,North Carolina,37017,Bladen,37017,Bladen,34.7332,-78.7903,140,290,polygon,FALSE,TRUE,America/New_York,3,28392,1840016565
+Chocowinity,Chocowinity,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.5148,-77.1017,790,302,polygon,FALSE,TRUE,America/New_York,3,27817,1840016302
+Sunset Beach,Sunset Beach,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.892,-78.5104,3894,222,polygon,FALSE,TRUE,America/New_York,3,28468 28459,1840016685
+Whitakers,Whitakers,NC,North Carolina,37127,Nash,37127|37065,Nash|Edgecombe,36.1057,-77.713,712,335,polygon,FALSE,TRUE,America/New_York,3,27891,1840016166
+Brogden,Brogden,NC,North Carolina,37191,Wayne,37191,Wayne,35.2961,-78.025,2349,409,polygon,FALSE,FALSE,America/New_York,3,28333,1840013431
+Hot Springs,Hot Springs,NC,North Carolina,37115,Madison,37115,Madison,35.892,-82.8291,574,70,polygon,FALSE,TRUE,America/New_York,3,28743 28753,1840016209
+Ahoskie,Ahoskie,NC,North Carolina,37091,Hertford,37091,Hertford,36.2843,-76.9898,4789,432,polygon,FALSE,TRUE,America/New_York,3,27910,1840015277
+Columbus,Columbus,NC,North Carolina,37149,Polk,37149,Polk,35.266,-82.1985,992,107,polygon,FALSE,TRUE,America/New_York,3,28722 28756,1840016404
+Stokes,Stokes,NC,North Carolina,37147,Pitt,37147,Pitt,35.7106,-77.2677,709,61,polygon,FALSE,FALSE,America/New_York,3,27884,1840024931
+Emerald Isle,Emerald Isle,NC,North Carolina,37031,Carteret,37031,Carteret,34.6649,-77.0291,3683,288,polygon,FALSE,TRUE,America/New_York,3,28594,1840016484
+Granite Falls,Granite Falls,NC,North Carolina,37027,Caldwell,37027,Caldwell,35.7965,-81.4233,4659,343,polygon,FALSE,TRUE,America/New_York,3,28630,1840016189
+Bath,Bath,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.4702,-76.8119,244,263,polygon,FALSE,TRUE,America/New_York,3,27808 27889,1840015399
+Wadesboro,Wadesboro,NC,North Carolina,37007,Anson,37007,Anson,34.9645,-80.0746,5255,309,polygon,FALSE,TRUE,America/New_York,3,28170,1840016450
+Holden Beach,Holden Beach,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.912,-78.3182,638,89,polygon,FALSE,TRUE,America/New_York,3,28462,1840016682
+Salisbury,Salisbury,NC,North Carolina,37159,Rowan,37159,Rowan,35.6657,-80.491,33849,587,polygon,FALSE,TRUE,America/New_York,3,28146 28144 28147 28145,1840015384
+Valle Crucis,Valle Crucis,NC,North Carolina,37189,Watauga,37189,Watauga,36.2074,-81.786,298,25,polygon,FALSE,FALSE,America/New_York,3,28604 28679,1840024902
+Mount Holly,Mount Holly,NC,North Carolina,37071,Gaston,37071,Gaston,35.3136,-81.0072,15635,556,polygon,FALSE,TRUE,America/New_York,3,28120 28012 28236,1840014590
+Grantsboro,Grantsboro,NC,North Carolina,37137,Pamlico,37137,Pamlico,35.1449,-76.8447,652,65,polygon,FALSE,TRUE,America/New_York,3,28529,1840016424
+Kure Beach,Kure Beach,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.0003,-77.9077,2105,924,polygon,FALSE,TRUE,America/New_York,3,28449 28428,1840016676
+Bolivia,Bolivia,NC,North Carolina,37019,Brunswick,37019,Brunswick,34.0699,-78.1472,152,92,polygon,FALSE,TRUE,America/New_York,3,28422,1840015579
+Pinebluff,Pinebluff,NC,North Carolina,37125,Moore,37125,Moore,35.1087,-79.4712,1487,221,polygon,FALSE,TRUE,America/New_York,3,28373,1840016358
+Danbury,Danbury,NC,North Carolina,37169,Stokes,37169,Stokes,36.4113,-80.2122,183,88,polygon,FALSE,TRUE,America/New_York,3,27016,1840016034
+Mesic,Mesic,NC,North Carolina,37137,Pamlico,37137,Pamlico,35.2034,-76.645,209,78,polygon,FALSE,TRUE,America/New_York,3,28515,1840016422
+Waynesville,Waynesville,NC,North Carolina,37087,Haywood,37087,Haywood,35.4853,-82.9996,9971,436,polygon,FALSE,TRUE,America/New_York,3,28786 28738,1840016297
+Plymouth,Plymouth,NC,North Carolina,37187,Washington,37187,Washington,35.8587,-76.7487,3844,335,polygon,FALSE,TRUE,America/New_York,3,27962,1840016242
+Bryson City,Bryson City,NC,North Carolina,37173,Swain,37173,Swain,35.4262,-83.4474,1455,257,polygon,FALSE,TRUE,America/New_York,3,28713,1840015413
+Rutherford College,Rutherford College,NC,North Carolina,37023,Burke,37023,Burke,35.7507,-81.5269,1314,224,polygon,FALSE,TRUE,America/New_York,3,28612 28671,1840017777
+Wentworth,Wentworth,NC,North Carolina,37157,Rockingham,37157,Rockingham,36.3914,-79.751,2713,73,polygon,FALSE,TRUE,America/New_York,3,27320,1840016056
+Beulaville,Beulaville,NC,North Carolina,37061,Duplin,37061,Duplin,34.9227,-77.7726,1315,334,polygon,FALSE,TRUE,America/New_York,3,28518,1840015485
+Stedman,Stedman,NC,North Carolina,37051,Cumberland,37051,Cumberland,35.0131,-78.7028,1056,195,polygon,FALSE,TRUE,America/New_York,3,28391,1840016442
+Elon,Elon,NC,North Carolina,37001,Alamance,37001,Alamance,36.1014,-79.5085,10227,993,polygon,FALSE,TRUE,America/New_York,3,27244,1840016143
+Burgaw,Burgaw,NC,North Carolina,37141,Pender,37141,Pender,34.5507,-77.9224,3667,338,polygon,FALSE,TRUE,America/New_York,3,28425,1840015548
+Falkland,Falkland,NC,North Carolina,37147,Pitt,37147,Pitt,35.6986,-77.5132,100,157,polygon,FALSE,TRUE,America/New_York,3,27829 27827 27834,1840016274
+Evergreen,Evergreen,NC,North Carolina,37047,Columbus,37047,Columbus,34.4149,-78.9114,261,26,polygon,FALSE,FALSE,America/New_York,3,28438,1840025857
+Garland,Garland,NC,North Carolina,37163,Sampson,37163,Sampson,34.7859,-78.3947,619,222,polygon,FALSE,TRUE,America/New_York,3,28441,1840016432
+Robbins,Robbins,NC,North Carolina,37125,Moore,37125,Moore,35.4305,-79.5835,1201,335,polygon,FALSE,TRUE,America/New_York,3,27325,1840014558
+Welcome,Welcome,NC,North Carolina,37057,Davidson,37057,Davidson,35.9066,-80.2548,4319,179,polygon,FALSE,FALSE,America/New_York,3,27295 27374,1840013388
+Elk Park,Elk Park,NC,North Carolina,37011,Avery,37011,Avery,36.1582,-81.9808,444,248,polygon,FALSE,TRUE,America/New_York,3,28622,1840016114
+Dobbins Heights,Dobbins Heights,NC,North Carolina,37153,Richmond,37153,Richmond,34.9069,-79.6933,833,364,polygon,FALSE,TRUE,America/New_York,3,28345,1840016474
+Peletier,Peletier,NC,North Carolina,37031,Carteret,37031,Carteret,34.727,-77.0759,670,71,polygon,FALSE,TRUE,America/New_York,3,28584,1840016486
+Marshville,Marshville,NC,North Carolina,37179,Union,37179,Union,34.9866,-80.3685,2690,501,polygon,FALSE,TRUE,America/New_York,3,28103,1840016454
+Jonesville,Jonesville,NC,North Carolina,37197,Yadkin,37197,Yadkin,36.2336,-80.8351,2234,299,polygon,FALSE,TRUE,America/New_York,3,28642,1840016110
+Pine Knoll Shores,Pine Knoll Shores,NC,North Carolina,37031,Carteret,37031,Carteret,34.6974,-76.8205,1332,232,polygon,FALSE,TRUE,America/New_York,3,28512,1840016487
+Bostic,Bostic,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.3624,-81.836,376,155,polygon,FALSE,TRUE,America/New_York,3,28018,1840015422
+Marion,Marion,NC,North Carolina,37111,McDowell,37111,McDowell,35.6775,-82.0014,13026,503,polygon,FALSE,TRUE,America/New_York,3,28752 28737,1840015372
+Burlington,Burlington,NC,North Carolina,37001,Alamance,37001|37081,Alamance|Guilford,36.0762,-79.4687,127374,697,polygon,FALSE,TRUE,America/New_York,2,27217 27215,1840013362
+Wallburg,Wallburg,NC,North Carolina,37057,Davidson,37057,Davidson,36.0088,-80.1453,3104,214,polygon,FALSE,TRUE,America/New_York,3,27107 27373,1840016224
+Henderson,Henderson,NC,North Carolina,37181,Vance,37181,Vance,36.3259,-78.4155,20158,673,polygon,FALSE,TRUE,America/New_York,3,27536,1840014433
+Drexel,Drexel,NC,North Carolina,37023,Burke,37023,Burke,35.7568,-81.6088,1860,519,polygon,FALSE,TRUE,America/New_York,3,28619 28655,1840016232
+Valley Hill,Valley Hill,NC,North Carolina,37089,Henderson,37089,Henderson,35.2958,-82.4913,1923,320,polygon,FALSE,FALSE,America/New_York,3,28739,1840013447
+Henrietta,Henrietta,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.2569,-81.8012,400,264,polygon,FALSE,FALSE,America/New_York,3,28114 28076,1840025818
+Rosman,Rosman,NC,North Carolina,37175,Transylvania,37175,Transylvania,35.1458,-82.8201,603,426,polygon,FALSE,TRUE,America/New_York,3,28712 28772,1840017862
+Cajah's Mountain,Cajah's Mountain,NC,North Carolina,37027,Caldwell,37027,Caldwell,35.8508,-81.5361,2735,310,polygon,FALSE,TRUE,America/New_York,3,28645,1840033010
+Red Springs,Red Springs,NC,North Carolina,37155,Robeson,37155,Robeson,34.8046,-79.1822,4161,375,polygon,FALSE,TRUE,America/New_York,3,28377,1840017907
+Elroy,Elroy,NC,North Carolina,37191,Wayne,37191,Wayne,35.3307,-77.9226,3405,201,polygon,FALSE,FALSE,America/New_York,3,27534,1840013071
+Hertford,Hertford,NC,North Carolina,37143,Perquimans,37143,Perquimans,36.1813,-76.4673,2124,287,polygon,FALSE,TRUE,America/New_York,3,27944,1840015311
+Goldston,Goldston,NC,North Carolina,37037,Chatham,37037,Chatham,35.5929,-79.3284,293,142,polygon,FALSE,TRUE,America/New_York,3,27252,1840016258
+Raynham,Raynham,NC,North Carolina,37155,Robeson,37155,Robeson,34.5758,-79.191,70,222,polygon,FALSE,TRUE,America/New_York,3,28383,1840017906
+South Henderson,South Henderson,NC,North Carolina,37181,Vance,37181,Vance,36.3035,-78.4053,872,182,polygon,FALSE,FALSE,America/New_York,3,27536 27537,1840013308
+Bladenboro,Bladenboro,NC,North Carolina,37017,Bladen,37017,Bladen,34.5407,-78.795,1657,288,polygon,FALSE,TRUE,America/New_York,3,28320,1840015539
+Teachey,Teachey,NC,North Carolina,37061,Duplin,37061,Duplin,34.769,-78.0093,431,164,polygon,FALSE,TRUE,America/New_York,3,28464,1840016470
+Benson,Benson,NC,North Carolina,37101,Johnston,37101,Johnston,35.3861,-78.5436,3501,516,polygon,FALSE,TRUE,America/New_York,3,27504,1840015393
+Montreat,Montreat,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.6478,-82.3001,760,107,polygon,FALSE,TRUE,America/New_York,3,28711 28757,1840016283
+Clarkton,Clarkton,NC,North Carolina,37017,Bladen,37017,Bladen,34.4889,-78.6559,762,236,polygon,FALSE,TRUE,America/New_York,3,28433,1840016561
+Dublin,Dublin,NC,North Carolina,37017,Bladen,37017,Bladen,34.6562,-78.7231,322,285,polygon,FALSE,TRUE,America/New_York,3,28332,1840016562
+Franklin,Franklin,NC,North Carolina,37113,Macon,37113,Macon,35.1798,-83.3809,7066,315,polygon,FALSE,TRUE,America/New_York,3,28734 28744,1840016421
+Bessemer City,Bessemer City,NC,North Carolina,37071,Gaston,37071,Gaston,35.2843,-81.2841,5472,427,polygon,FALSE,TRUE,America/New_York,3,28016,1840013470
+Morven,Morven,NC,North Carolina,37007,Anson,37007,Anson,34.8643,-80,468,175,polygon,FALSE,TRUE,America/New_York,3,28119,1840016449
+Connelly Springs,Connelly Springs,NC,North Carolina,37023,Burke,37023,Burke,35.755,-81.4971,1642,127,polygon,FALSE,TRUE,America/New_York,3,28612,1840016231
+Macclesfield,Macclesfield,NC,North Carolina,37065,Edgecombe,37065,Edgecombe,35.7522,-77.6703,438,326,polygon,FALSE,TRUE,America/New_York,3,27852,1840016175
+Durham,Durham,NC,North Carolina,37063,Durham,37063|37135,Durham|Orange,35.9795,-78.9032,407575,921,polygon,FALSE,TRUE,America/New_York,2,27703 27705 27704 27707 27701 27709 27712 27713 27706 27708 27710 27715 27717 27722,1840013364
+Balfour,Balfour,NC,North Carolina,37089,Henderson,37089,Henderson,35.3494,-82.4825,1490,354,polygon,FALSE,FALSE,America/New_York,3,28792 28791,1840013445
+Fairfield,Fairfield,NC,North Carolina,37095,Hyde,37095,Hyde,35.5472,-76.2261,314,17,polygon,FALSE,FALSE,America/New_York,3,27826,1840025810
+Polkton,Polkton,NC,North Carolina,37007,Anson,37007,Anson,35.0031,-80.1963,3125,395,polygon,FALSE,TRUE,America/New_York,3,28135,1840016452
+Catawba,Catawba,NC,North Carolina,37035,Catawba,37035,Catawba,35.7067,-81.0659,623,61,polygon,FALSE,TRUE,America/New_York,3,28609,1840016282
+Wakulla,Wakulla,NC,North Carolina,37155,Robeson,37155,Robeson,34.797,-79.2559,87,39,polygon,FALSE,FALSE,America/New_York,3,28377 28364,1840024997
+Stantonsburg,Stantonsburg,NC,North Carolina,37195,Wilson,37195,Wilson,35.6055,-77.82,781,512,polygon,FALSE,TRUE,America/New_York,3,27883,1840016262
+Pinetops,Pinetops,NC,North Carolina,37065,Edgecombe,37065,Edgecombe,35.7912,-77.6378,1273,489,polygon,FALSE,TRUE,America/New_York,3,27864,1840016178
+Gaston,Gaston,NC,North Carolina,37131,Northampton,37131,Northampton,36.4965,-77.6448,1048,239,polygon,FALSE,TRUE,America/New_York,3,27832,1840016043
+Sandy Creek,Sandy Creek,NC,North Carolina,37019,Brunswick,37019,Brunswick,34.2814,-78.1531,276,84,polygon,FALSE,TRUE,America/New_York,3,28451,1840017952
+Lenoir,Lenoir,NC,North Carolina,37027,Caldwell,37027,Caldwell,35.9097,-81.5247,17943,335,polygon,FALSE,TRUE,America/New_York,3,28645 28633,1840014493
+Ingold,Ingold,NC,North Carolina,37163,Sampson,37163,Sampson,34.8312,-78.3497,476,35,polygon,FALSE,FALSE,America/New_York,3,28328 28441,1840013480
+Morganton,Morganton,NC,North Carolina,37023,Burke,37023,Burke,35.7408,-81.7003,16519,331,polygon,FALSE,TRUE,America/New_York,3,28655 28680,1840014504
+Lincolnton,Lincolnton,NC,North Carolina,37109,Lincoln,37109,Lincoln,35.4747,-81.2385,23311,480,polygon,FALSE,TRUE,America/New_York,3,28092 28093,1840015427
+Bethel,Bethel,NC,North Carolina,37147,Pitt,37147,Pitt,35.8072,-77.3762,1612,586,polygon,FALSE,TRUE,America/New_York,3,27812,1840015389
+Conetoe,Conetoe,NC,North Carolina,37065,Edgecombe,37065,Edgecombe,35.8176,-77.4569,275,295,polygon,FALSE,TRUE,America/New_York,3,27819,1840016176
+Dillsboro,Dillsboro,NC,North Carolina,37099,Jackson,37099,Jackson,35.3706,-83.2526,267,215,polygon,FALSE,TRUE,America/New_York,3,28779 28725,1840016346
+Rhodhiss,Rhodhiss,NC,North Carolina,37027,Caldwell,37027|37023,Caldwell|Burke,35.7683,-81.4312,1021,332,polygon,FALSE,TRUE,America/New_York,3,28667 28601,1840017754
+Etowah,Etowah,NC,North Carolina,37089,Henderson,37089,Henderson,35.3061,-82.5902,7589,165,polygon,FALSE,FALSE,America/New_York,3,28729 28739,1840013074
+Cornelius,Cornelius,NC,North Carolina,37119,Mecklenburg,37119,Mecklenburg,35.4731,-80.8822,29191,951,polygon,FALSE,TRUE,America/New_York,3,28031,1840016352
+Ronda,Ronda,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.2217,-80.9432,412,146,polygon,FALSE,TRUE,America/New_York,3,28670,1840017720
+Apex,Apex,NC,North Carolina,37183,Wake,37183,Wake,35.7246,-78.8698,50451,1020,polygon,FALSE,TRUE,America/New_York,3,27502 27523 27539,1840015355
+Jackson Heights,Jackson Heights,NC,North Carolina,37107,Lenoir,37107,Lenoir,35.2236,-77.6333,571,151,polygon,FALSE,TRUE,America/New_York,3,28504,1840042919
+Marshall,Marshall,NC,North Carolina,37115,Madison,37115,Madison,35.7974,-82.6818,903,92,polygon,FALSE,TRUE,America/New_York,3,28753,1840016211
+Forest City,Forest City,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.3339,-81.8702,25481,324,polygon,FALSE,TRUE,America/New_York,3,28043,1840016320
+Sea Breeze,Sea Breeze,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.0699,-77.8965,1775,367,polygon,FALSE,FALSE,America/New_York,3,28409 28412,1840013629
+Rockfish,Rockfish,NC,North Carolina,37093,Hoke,37093,Hoke,34.9902,-79.0694,3476,271,polygon,FALSE,FALSE,America/New_York,3,28376 28306,1840013507
+Hamilton,Hamilton,NC,North Carolina,37117,Martin,37117,Martin,35.9443,-77.2067,376,293,polygon,FALSE,TRUE,America/New_York,3,27840,1840016204
+Pilot Mountain,Pilot Mountain,NC,North Carolina,37171,Surry,37171,Surry,36.3854,-80.4735,1433,271,polygon,FALSE,TRUE,America/New_York,3,27041,1840016032
+Hickory,Hickory,NC,North Carolina,37035,Catawba,37035|37023|37027,Catawba|Burke|Caldwell,35.7426,-81.323,215353,529,polygon,FALSE,TRUE,America/New_York,2,28601 28602 28603,1840014524
+Glen Alpine,Glen Alpine,NC,North Carolina,37023,Burke,37023,Burke,35.7308,-81.7826,1478,265,polygon,FALSE,TRUE,America/New_York,3,28655 28628,1840016233
+Belville,Belville,NC,North Carolina,37019,Brunswick,37019,Brunswick,34.2195,-77.9983,2052,471,polygon,FALSE,TRUE,America/New_York,3,28451,1840015578
+Foxfire,Foxfire,NC,North Carolina,37125,Moore,37125,Moore,35.179,-79.5639,1005,54,polygon,FALSE,TRUE,America/New_York,3,27281 27376 28315,1840017851
+Pantego,Pantego,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.5874,-76.6594,176,84,polygon,FALSE,TRUE,America/New_York,3,27860,1840016304
+Cary,Cary,NC,North Carolina,37183,Wake,37183|37037,Wake|Chatham,35.7817,-78.8175,165904,1118,polygon,FALSE,TRUE,America/New_York,2,27560 27511 27518 27519 27513 27512,1840016196
+Mountain Home,Mountain Home,NC,North Carolina,37089,Henderson,37089,Henderson,35.3708,-82.5021,3458,354,polygon,FALSE,FALSE,America/New_York,3,28791,1840013448
+Raleigh,Raleigh,NC,North Carolina,37183,Wake,37183|37063,Wake|Durham,35.8324,-78.6438,1018336,1235,polygon,FALSE,TRUE,America/New_York,1,27617 27616 27615 27614 27613 27612 27610 27608 27609 27601 27603 27604 27605 27606 27607 27602 27619 27620 27621 27622 27624 27626 27627 27628 27634 27636 27640 27650 27656 27658 27661 27668 27675 27676 27690 27697 27698,1840014497
+Macon,Macon,NC,North Carolina,37185,Warren,37185,Warren,36.4396,-78.0839,112,91,polygon,FALSE,TRUE,America/New_York,3,27551,1840016036
+Mars Hill,Mars Hill,NC,North Carolina,37115,Madison,37115,Madison,35.8281,-82.5485,2118,409,polygon,FALSE,TRUE,America/New_York,3,28754,1840016210
+Neuse Forest,Neuse Forest,NC,North Carolina,37049,Craven,37049,Craven,34.966,-76.9401,1742,212,polygon,FALSE,FALSE,America/New_York,3,28560,1840033020
+Vann Crossroads,Vann Crossroads,NC,North Carolina,37163,Sampson,37163,Sampson,35.1697,-78.4026,294,24,polygon,FALSE,FALSE,America/New_York,3,28328 28366,1840013484
+Rural Hall,Rural Hall,NC,North Carolina,37067,Forsyth,37067,Forsyth,36.2252,-80.2974,3196,432,polygon,FALSE,TRUE,America/New_York,3,27045 27094 27098 27099,1840017727
+Sandyfield,Sandyfield,NC,North Carolina,37047,Columbus,37047,Columbus,34.3738,-78.3,431,54,polygon,FALSE,TRUE,America/New_York,3,28456,1840017950
+Watha,Watha,NC,North Carolina,37141,Pender,37141,Pender,34.6516,-77.9568,235,63,polygon,FALSE,TRUE,America/New_York,3,28478,1840016605
+Southern Shores,Southern Shores,NC,North Carolina,37055,Dare,37055,Dare,36.1205,-75.7327,2883,281,polygon,FALSE,TRUE,America/New_York,3,27949,1840017739
+Biltmore Forest,Biltmore Forest,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.5348,-82.5403,1421,188,polygon,FALSE,TRUE,America/New_York,3,28803,1840015391
+Garner,Garner,NC,North Carolina,37183,Wake,37183,Wake,35.6938,-78.6199,28858,714,polygon,FALSE,TRUE,America/New_York,3,27529 27603 27699,1840016198
+Lake Waccamaw,Lake Waccamaw,NC,North Carolina,37047,Columbus,37047,Columbus,34.3141,-78.5117,1408,195,polygon,FALSE,TRUE,America/New_York,3,28450,1840016661
+Skippers Corner,Skippers Corner,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.3292,-77.9141,2705,149,polygon,FALSE,FALSE,America/New_York,3,28429,1840032999
+Milton,Milton,NC,North Carolina,37033,Caswell,37033,Caswell,36.5372,-79.2081,148,146,polygon,FALSE,TRUE,America/New_York,3,27305,1840016057
+Coats,Coats,NC,North Carolina,37085,Harnett,37085,Harnett,35.4069,-78.6684,2436,665,polygon,FALSE,TRUE,America/New_York,3,27521,1840016327
+Windsor,Windsor,NC,North Carolina,37015,Bertie,37015,Bertie,35.9923,-76.9392,3239,452,polygon,FALSE,TRUE,America/New_York,3,27983,1840016150
+Warsaw,Warsaw,NC,North Carolina,37061,Duplin,37061,Duplin,34.9987,-78.0925,3097,382,polygon,FALSE,TRUE,America/New_York,3,28398,1840016472
+Aulander,Aulander,NC,North Carolina,37015,Bertie,37015,Bertie,36.228,-77.1136,802,209,polygon,FALSE,TRUE,America/New_York,3,27805,1840015333
+Mills River,Mills River,NC,North Carolina,37089,Henderson,37089,Henderson,35.3853,-82.5854,7294,126,polygon,FALSE,TRUE,America/New_York,3,28759 28710,1840016370
+Canton,Canton,NC,North Carolina,37087,Haywood,37087,Haywood,35.5516,-82.8406,4272,443,polygon,FALSE,TRUE,America/New_York,3,28716,1840015395
+Asheboro,Asheboro,NC,North Carolina,37151,Randolph,37151,Randolph,35.7157,-79.8129,39076,529,polygon,FALSE,TRUE,America/New_York,3,27205 27203,1840013400
+Jefferson,Jefferson,NC,North Carolina,37009,Ashe,37009,Ashe,36.4209,-81.4686,3918,283,polygon,FALSE,TRUE,America/New_York,3,28640,1840016027
+Bailey,Bailey,NC,North Carolina,37127,Nash,37127,Nash,35.7805,-78.1129,563,309,polygon,FALSE,TRUE,America/New_York,3,27807,1840015344
+White Lake,White Lake,NC,North Carolina,37017,Bladen,37017,Bladen,34.6417,-78.4969,766,288,polygon,FALSE,TRUE,America/New_York,3,28337,1840016566
+Fearrington Village,Fearrington Village,NC,North Carolina,37037,Chatham,37037,Chatham,35.7996,-79.0818,2784,601,polygon,FALSE,FALSE,America/New_York,3,27312,1840013406
+Norman,Norman,NC,North Carolina,37153,Richmond,37153,Richmond,35.1698,-79.7231,133,91,polygon,FALSE,TRUE,America/New_York,3,28338 28367,1840016476
+St. Pauls,St. Pauls,NC,North Carolina,37155,Robeson,37155,Robeson,34.8087,-78.9751,3799,599,polygon,FALSE,TRUE,America/New_York,3,28384,1840017910
+Statesville,Statesville,NC,North Carolina,37097,Iredell,37097,Iredell,35.7838,-80.8711,26657,422,polygon,FALSE,TRUE,America/New_York,3,28625 28677 28687,1840015358
+Madison,Madison,NC,North Carolina,37157,Rockingham,37157,Rockingham,36.3868,-79.975,2134,232,polygon,FALSE,TRUE,America/New_York,3,27025,1840016053
+Rougemont,Rougemont,NC,North Carolina,37063,Durham,37063|37145,Durham|Person,36.2208,-78.9206,847,52,polygon,FALSE,FALSE,America/New_York,3,27572,1840025779
+Ellenboro,Ellenboro,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.3309,-81.7612,834,254,polygon,FALSE,TRUE,America/New_York,3,28040,1840016319
+Kelford,Kelford,NC,North Carolina,37015,Bertie,37015,Bertie,36.1813,-77.2243,225,180,polygon,FALSE,TRUE,America/New_York,3,27847,1840016147
+Troy,Troy,NC,North Carolina,37123,Montgomery,37123,Montgomery,35.3652,-79.8914,3745,355,polygon,FALSE,TRUE,America/New_York,3,27371,1840016361
+Ivanhoe,Ivanhoe,NC,North Carolina,37163,Sampson,37163,Sampson,34.587,-78.2447,165,12,polygon,FALSE,FALSE,America/New_York,3,28447,1840013481
+Robbinsville,Robbinsville,NC,North Carolina,37075,Graham,37075,Graham,35.3217,-83.8094,604,351,polygon,FALSE,TRUE,America/New_York,3,28771,1840017858
+Landis,Landis,NC,North Carolina,37159,Rowan,37159,Rowan,35.5484,-80.6115,3114,344,polygon,FALSE,TRUE,America/New_York,3,28023 28088,1840016263
+Gulf,Gulf,NC,North Carolina,37037,Chatham,37037,Chatham,35.5597,-79.2807,490,208,polygon,FALSE,FALSE,America/New_York,3,27252 27330,1840025793
+Dundarrach,Dundarrach,NC,North Carolina,37093,Hoke,37093,Hoke,34.9247,-79.1575,55,16,polygon,FALSE,FALSE,America/New_York,3,28357 28386,1840013079
+Lansing,Lansing,NC,North Carolina,37009,Ashe,37009,Ashe,36.4989,-81.5098,153,180,polygon,FALSE,TRUE,America/New_York,3,28643,1840016028
+Newland,Newland,NC,North Carolina,37011,Avery,37011,Avery,36.088,-81.9274,685,353,polygon,FALSE,TRUE,America/New_York,3,28657,1840016115
+Bent Creek,Bent Creek,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.5081,-82.6176,1271,222,polygon,FALSE,FALSE,America/New_York,3,28806,1840013409
+Rodanthe,Rodanthe,NC,North Carolina,37055,Dare,37055,Dare,35.5897,-75.466,120,42,polygon,FALSE,FALSE,America/New_York,3,27968,1840025785
+Oak City,Oak City,NC,North Carolina,37117,Martin,37117,Martin,35.9617,-77.304,291,244,polygon,FALSE,TRUE,America/New_York,3,27857,1840016207
+Murfreesboro,Murfreesboro,NC,North Carolina,37091,Hertford,37091,Hertford,36.4421,-77.0965,2912,510,polygon,FALSE,TRUE,America/New_York,3,27818 27855,1840016045
+Fairview,Fairview,NC,North Carolina,37179,Union,37179,Union,35.1545,-80.5345,3770,48,polygon,FALSE,TRUE,America/New_York,3,28110 28079,1840016456
+Pinnacle,Pinnacle,NC,North Carolina,37169,Stokes,37169,Stokes,36.323,-80.4241,1010,107,polygon,FALSE,FALSE,America/New_York,3,27043,1840025765
+Cedar Point,Cedar Point,NC,North Carolina,37031,Carteret,37031,Carteret,34.6862,-77.0833,1329,230,polygon,FALSE,TRUE,America/New_York,3,28584,1840016483
+Yanceyville,Yanceyville,NC,North Carolina,37033,Caswell,37033,Caswell,36.4109,-79.3403,1944,135,polygon,FALSE,TRUE,America/New_York,3,27379 27212,1840016058
+Stanley,Stanley,NC,North Carolina,37071,Gaston,37071,Gaston,35.3552,-81.0937,3703,533,polygon,FALSE,TRUE,America/New_York,3,28120 28164,1840016398
+Pittsboro,Pittsboro,NC,North Carolina,37037,Chatham,37037,Chatham,35.7255,-79.1732,3844,368,polygon,FALSE,TRUE,America/New_York,3,27312,1840016259
+Marvin,Marvin,NC,North Carolina,37179,Union,37179,Union,34.989,-80.8034,6490,420,polygon,FALSE,TRUE,America/New_York,3,28173,1840017880
+Clayton,Clayton,NC,North Carolina,37101,Johnston,37101|37183,Johnston|Wake,35.6594,-78.4503,21405,553,polygon,FALSE,TRUE,America/New_York,3,27520 27527 27528,1840016290
+Sylva,Sylva,NC,North Carolina,37099,Jackson,37099,Jackson,35.3754,-83.2185,2678,324,polygon,FALSE,TRUE,America/New_York,3,28779,1840016347
+Marietta,Marietta,NC,North Carolina,37155,Robeson,37155,Robeson,34.3682,-79.1249,171,59,polygon,FALSE,TRUE,America/New_York,3,28340 28362,1840016535
+Como,Como,NC,North Carolina,37091,Hertford,37091,Hertford,36.5011,-77.0073,87,10,polygon,FALSE,TRUE,America/New_York,3,27818,1840016046
+Yadkinville,Yadkinville,NC,North Carolina,37197,Yadkin,37197,Yadkin,36.131,-80.6588,3446,391,polygon,FALSE,TRUE,America/New_York,3,27055,1840016112
+Cove Creek,Cove Creek,NC,North Carolina,37189,Watauga,37189,Watauga,36.2763,-81.783,1022,46,polygon,FALSE,TRUE,America/New_York,3,28692 28698 28679,1840032909
+Vanceboro,Vanceboro,NC,North Carolina,37049,Craven,37049,Craven,35.303,-77.1567,980,220,polygon,FALSE,TRUE,America/New_York,3,28586,1840016402
+Lucama,Lucama,NC,North Carolina,37195,Wilson,37195,Wilson,35.6447,-78.0072,1137,707,polygon,FALSE,TRUE,America/New_York,3,27851,1840016260
+Bell Arthur,Bell Arthur,NC,North Carolina,37147,Pitt,37147,Pitt,35.5912,-77.5127,206,42,polygon,FALSE,FALSE,America/New_York,3,27828 27834,1840024929
+Turkey,Turkey,NC,North Carolina,37163,Sampson,37163,Sampson,34.995,-78.1841,295,287,polygon,FALSE,TRUE,America/New_York,3,28393,1840016434
+Saratoga,Saratoga,NC,North Carolina,37195,Wilson,37195,Wilson,35.6537,-77.7753,406,244,polygon,FALSE,TRUE,America/New_York,3,27873,1840017784
+Raemon,Raemon,NC,North Carolina,37155,Robeson,37155,Robeson,34.6229,-79.3491,166,14,polygon,FALSE,FALSE,America/New_York,3,28364,1840013561
+Winfall,Winfall,NC,North Carolina,37143,Perquimans,37143,Perquimans,36.2111,-76.4554,601,101,polygon,FALSE,TRUE,America/New_York,3,27944 27985,1840016100
+Ashley Heights,Ashley Heights,NC,North Carolina,37093,Hoke,37093,Hoke,35.09,-79.3739,461,79,polygon,FALSE,FALSE,America/New_York,3,28315,1840013504
+Roanoke Rapids,Roanoke Rapids,NC,North Carolina,37083,Halifax,37083,Halifax,36.4452,-77.649,22950,575,polygon,FALSE,TRUE,America/New_York,3,27870,1840014437
+Buies Creek,Buies Creek,NC,North Carolina,37085,Harnett,37085,Harnett,35.4127,-78.7363,2289,385,polygon,FALSE,FALSE,America/New_York,3,27546 27506,1840013433
+Red Oak,Red Oak,NC,North Carolina,37127,Nash,37127,Nash,36.0415,-77.9065,3442,68,polygon,FALSE,TRUE,America/New_York,3,27809 27856 27804 27868,1840017745
+Centerville,Centerville,NC,North Carolina,37069,Franklin,37069,Franklin,36.1866,-78.1114,102,24,polygon,FALSE,FALSE,America/New_York,3,27549,1840016117
+Valdese,Valdese,NC,North Carolina,37023,Burke,37023,Burke,35.7565,-81.5632,4431,218,polygon,FALSE,TRUE,America/New_York,3,28612 28690 28655,1840016234
+Taylortown,Taylortown,NC,North Carolina,37125,Moore,37125,Moore,35.2146,-79.4916,830,242,polygon,FALSE,TRUE,America/New_York,3,28374 27376,1840016356
+St. Stephens,St. Stephens,NC,North Carolina,37035,Catawba,37035,Catawba,35.7641,-81.2746,9004,371,polygon,FALSE,FALSE,America/New_York,3,28613 28601,1840033023
+Graham,Graham,NC,North Carolina,37001,Alamance,37001,Alamance,36.0596,-79.3898,14814,592,polygon,FALSE,TRUE,America/New_York,3,27253 27216,1840013361
+Woodland,Woodland,NC,North Carolina,37131,Northampton,37131,Northampton,36.3307,-77.2147,720,222,polygon,FALSE,TRUE,America/New_York,3,27897,1840016044
+Morehead City,Morehead City,NC,North Carolina,37031,Carteret,37031,Carteret,34.7304,-76.7386,48125,507,polygon,FALSE,TRUE,America/New_York,3,28557 28516,1840016482
+Lewisville,Lewisville,NC,North Carolina,37067,Forsyth,37067,Forsyth,36.103,-80.4164,13913,373,polygon,FALSE,TRUE,America/New_York,3,27023 27040,1840016124
+Pikeville,Pikeville,NC,North Carolina,37191,Wayne,37191,Wayne,35.4971,-77.9877,677,347,polygon,FALSE,TRUE,America/New_York,3,27863,1840016324
+Blue Clay Farms,Blue Clay Farms,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.3005,-77.8916,0,0,polygon,FALSE,TRUE,America/New_York,3,28405,1840040276
+Spencer Mountain,Spencer Mountain,NC,North Carolina,37071,Gaston,37071,Gaston,35.3073,-81.1101,0,0,polygon,FALSE,TRUE,America/New_York,3,28054 28056,1840017865
+Pine Level,Pine Level,NC,North Carolina,37101,Johnston,37101,Johnston,35.5033,-78.2502,1927,437,polygon,FALSE,TRUE,America/New_York,3,27576 27577 27568,1840016293
+McDonald,McDonald,NC,North Carolina,37155,Robeson,37155,Robeson,34.5537,-79.1763,111,168,polygon,FALSE,TRUE,America/New_York,3,28340,1840016537
+Mountain View,Mountain View,NC,North Carolina,37035,Catawba,37035,Catawba,35.6828,-81.3683,3308,273,polygon,FALSE,FALSE,America/New_York,3,28602,1840033019
+Swan Quarter,Swan Quarter,NC,North Carolina,37095,Hyde,37095,Hyde,35.4109,-76.3251,327,31,polygon,FALSE,TRUE,America/New_York,3,27885,1840032987
+Calypso,Calypso,NC,North Carolina,37061,Duplin,37061,Duplin,35.1548,-78.1045,540,211,polygon,FALSE,TRUE,America/New_York,3,28325 28365,1840015486
+Bald Head Island,Bald Head Island,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.866,-77.9864,176,17,polygon,FALSE,TRUE,America/New_York,3,28461,1840017955
+Selma,Selma,NC,North Carolina,37101,Johnston,37101,Johnston,35.5436,-78.2955,6684,536,polygon,FALSE,TRUE,America/New_York,3,27576 27577,1840017794
+Hobgood,Hobgood,NC,North Carolina,37083,Halifax,37083,Halifax,36.0267,-77.394,328,122,polygon,FALSE,TRUE,America/New_York,3,27843,1840016061
+Arapahoe,Arapahoe,NC,North Carolina,37137,Pamlico,37137,Pamlico,35.0216,-76.826,531,94,polygon,FALSE,TRUE,America/New_York,3,28529 28510,1840015469
+Walnut Creek,Walnut Creek,NC,North Carolina,37191,Wayne,37191,Wayne,35.305,-77.8714,865,157,polygon,FALSE,TRUE,America/New_York,3,27534,1840017837
+Carrboro,Carrboro,NC,North Carolina,37135,Orange,37135,Orange,35.9259,-79.0877,21544,1287,polygon,FALSE,TRUE,America/New_York,3,27516 27510,1840015334
+Kittrell,Kittrell,NC,North Carolina,37181,Vance,37181,Vance,36.2218,-78.4413,161,296,polygon,FALSE,TRUE,America/New_York,3,27544,1840016049
+Misenheimer,Misenheimer,NC,North Carolina,37167,Stanly,37167,Stanly,35.4818,-80.287,676,161,polygon,FALSE,TRUE,America/New_York,3,28109 28137,1840017856
+Tryon,Tryon,NC,North Carolina,37149,Polk,37149,Polk,35.2086,-82.2379,1615,312,polygon,FALSE,TRUE,America/New_York,3,28782,1840016405
+Butner,Butner,NC,North Carolina,37077,Granville,37077,Granville,36.1285,-78.7501,17394,214,polygon,FALSE,TRUE,America/New_York,3,27522 27509,1840022665
+Mount Airy,Mount Airy,NC,North Carolina,37171,Surry,37171,Surry,36.5083,-80.6155,19164,338,polygon,FALSE,TRUE,America/New_York,3,27030,1840014430
+Blowing Rock,Blowing Rock,NC,North Carolina,37189,Watauga,37189,Watauga,36.1291,-81.6713,1263,161,polygon,FALSE,TRUE,America/New_York,3,28605,1840015309
+Southmont,Southmont,NC,North Carolina,37057,Davidson,37057,Davidson,35.6536,-80.2702,890,75,polygon,FALSE,FALSE,America/New_York,3,27292,1840025789
+Newport,Newport,NC,North Carolina,37031,Carteret,37031,Carteret,34.772,-76.8771,4617,234,polygon,FALSE,TRUE,America/New_York,3,28570,1840016485
+Wilmington,Wilmington,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.2101,-77.886,245910,889,polygon,FALSE,TRUE,America/New_York,2,28409 28401 28405 28403 28412 28402 28406 28408,1840015576
+Old Fort,Old Fort,NC,North Carolina,37111,McDowell,37111,McDowell,35.6305,-82.1777,915,289,polygon,FALSE,TRUE,America/New_York,3,28762,1840016244
+Saluda,Saluda,NC,North Carolina,37149,Polk,37149|37089,Polk|Henderson,35.2375,-82.3469,697,173,polygon,FALSE,TRUE,America/New_York,3,28773,1840015459
+Spring Hope,Spring Hope,NC,North Carolina,37127,Nash,37127,Nash,35.9441,-78.109,1307,333,polygon,FALSE,TRUE,America/New_York,3,27882,1840017747
+Caswell Beach,Caswell Beach,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.9074,-78.0472,421,55,polygon,FALSE,TRUE,America/New_York,3,28465,1840016684
+Bunnlevel,Bunnlevel,NC,North Carolina,37085,Harnett,37085,Harnett,35.31,-78.7725,639,32,polygon,FALSE,FALSE,America/New_York,3,28323,1840024949
+Mamers,Mamers,NC,North Carolina,37085,Harnett,37085,Harnett,35.416,-78.939,1064,67,polygon,FALSE,FALSE,America/New_York,3,27546 27552,1840024950
+Millingport,Millingport,NC,North Carolina,37167,Stanly,37167,Stanly,35.3763,-80.3113,390,26,polygon,FALSE,FALSE,America/New_York,3,28127 28001,1840024952
+Lake Norman of Catawba,Lake Norman of Catawba,NC,North Carolina,37035,Catawba,37035,Catawba,35.5995,-80.984,8060,128,polygon,FALSE,TRUE,America/New_York,3,28037 28682 28673,1840073862
+Wade,Wade,NC,North Carolina,37051,Cumberland,37051,Cumberland,35.1639,-78.7371,573,123,polygon,FALSE,TRUE,America/New_York,3,28395,1840016443
+Wilkesboro,Wilkesboro,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.1417,-81.1726,3491,219,polygon,FALSE,TRUE,America/New_York,3,28697,1840016093
+Mineral Springs,Mineral Springs,NC,North Carolina,37179,Union,37179,Union,34.9412,-80.6842,3007,142,polygon,FALSE,TRUE,America/New_York,3,28108 28173 28112,1840016455
+Momeyer,Momeyer,NC,North Carolina,37127,Nash,37127,Nash,35.9592,-78.0511,224,78,polygon,FALSE,TRUE,America/New_York,3,27856,1840016163
+Love Valley,Love Valley,NC,North Carolina,37097,Iredell,37097,Iredell,35.9872,-80.9835,108,39,polygon,FALSE,TRUE,America/New_York,3,28625,1840016214
+Stokesdale,Stokesdale,NC,North Carolina,37081,Guilford,37081,Guilford,36.2316,-79.9834,5413,109,polygon,FALSE,TRUE,America/New_York,3,27357 27284,1840016138
+Ogden,Ogden,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.2656,-77.7965,7608,647,polygon,FALSE,FALSE,America/New_York,3,28411,1840013633
+Walkertown,Walkertown,NC,North Carolina,37067,Forsyth,37067,Forsyth,36.1575,-80.1645,5120,300,polygon,FALSE,TRUE,America/New_York,3,27105 27101 27051,1840016125
+Salem,Salem,NC,North Carolina,37023,Burke,37023,Burke,35.6997,-81.7003,2181,196,polygon,FALSE,FALSE,America/New_York,3,28655,1840013392
+Beech Mountain,Beech Mountain,NC,North Carolina,37011,Avery,37011|37189,Avery|Watauga,36.2105,-81.8875,322,19,polygon,FALSE,TRUE,America/New_York,3,28604 28691,1840015308
+Middlesex,Middlesex,NC,North Carolina,37127,Nash,37127,Nash,35.7891,-78.2042,823,304,polygon,FALSE,TRUE,America/New_York,3,27557,1840016162
+Jamesville,Jamesville,NC,North Carolina,37117,Martin,37117,Martin,35.8121,-76.9003,454,124,polygon,FALSE,TRUE,America/New_York,3,27846,1840016202
+Middleburg,Middleburg,NC,North Carolina,37181,Vance,37181,Vance,36.399,-78.3235,139,68,polygon,FALSE,TRUE,America/New_York,3,27556 27563,1840016050
+Boone,Boone,NC,North Carolina,37189,Watauga,37189,Watauga,36.2111,-81.6668,25532,1175,polygon,FALSE,TRUE,America/New_York,3,28607 28608,1840015310
+Bolton,Bolton,NC,North Carolina,37047,Columbus,37047,Columbus,34.3174,-78.3977,650,69,polygon,FALSE,TRUE,America/New_York,3,28423,1840015568
+Hatteras,Hatteras,NC,North Carolina,37055,Dare,37055,Dare,35.2173,-75.6873,395,96,polygon,FALSE,FALSE,America/New_York,3,27943,1840025783
+Cameron,Cameron,NC,North Carolina,37125,Moore,37125,Moore,35.3259,-79.254,332,105,polygon,FALSE,TRUE,America/New_York,3,28326,1840015434
+Southern Pines,Southern Pines,NC,North Carolina,37125,Moore,37125,Moore,35.1921,-79.4042,14029,325,polygon,FALSE,TRUE,America/New_York,3,28374 28387 28388,1840017850
+Hillsborough,Hillsborough,NC,North Carolina,37135,Orange,37135,Orange,36.068,-79.0994,7231,498,polygon,FALSE,TRUE,America/New_York,3,27278,1840016151
+Cullowhee,Cullowhee,NC,North Carolina,37099,Jackson,37099,Jackson,35.3107,-83.1815,5753,616,polygon,FALSE,FALSE,America/New_York,3,28723,1840013072
+Fountain,Fountain,NC,North Carolina,37147,Pitt,37147,Pitt,35.672,-77.6308,436,181,polygon,FALSE,TRUE,America/New_York,3,27828 27829,1840016276
+Tobaccoville,Tobaccoville,NC,North Carolina,37067,Forsyth,37067,Forsyth,36.2256,-80.3591,2663,134,polygon,FALSE,TRUE,America/New_York,3,27040 27045 27050,1840017729
+Green Level,Green Level,NC,North Carolina,37001,Alamance,37001,Alamance,36.1232,-79.3462,2247,581,polygon,FALSE,TRUE,America/New_York,3,27217,1840016144
+Atlantic Beach,Atlantic Beach,NC,North Carolina,37031,Carteret,37031,Carteret,34.7011,-76.7403,1494,246,polygon,FALSE,TRUE,America/New_York,3,28512,1840015495
+Smithfield,Smithfield,NC,North Carolina,37101,Johnston,37101,Johnston,35.5131,-78.3495,30482,400,polygon,FALSE,TRUE,America/New_York,3,27577,1840017795
+Roxboro,Roxboro,NC,North Carolina,37145,Person,37145,Person,36.3905,-78.9811,9577,496,polygon,FALSE,TRUE,America/New_York,3,27573,1840014432
+Iron Station,Iron Station,NC,North Carolina,37109,Lincoln,37109,Lincoln,35.4515,-81.1568,653,106,polygon,FALSE,FALSE,America/New_York,3,28080,1840025819
+Webster,Webster,NC,North Carolina,37099,Jackson,37099,Jackson,35.35,-83.219,385,148,polygon,FALSE,TRUE,America/New_York,3,28779 28788,1840016348
+Warrenton,Warrenton,NC,North Carolina,37185,Warren,37185,Warren,36.3995,-78.1575,845,303,polygon,FALSE,TRUE,America/New_York,3,27589,1840016037
+Pink Hill,Pink Hill,NC,North Carolina,37107,Lenoir,37107,Lenoir,35.0563,-77.7436,518,430,polygon,FALSE,TRUE,America/New_York,3,28572,1840016390
+Harrells,Harrells,NC,North Carolina,37163,Sampson,37163|37061,Sampson|Duplin,34.7279,-78.2015,199,24,polygon,FALSE,TRUE,America/New_York,3,28444,1840016433
+JAARS,JAARS,NC,North Carolina,37179,Union,37179,Union,34.8622,-80.7489,468,210,polygon,FALSE,FALSE,America/New_York,3,28173,1840033012
+Kinston,Kinston,NC,North Carolina,37107,Lenoir,37107,Lenoir,35.2748,-77.5937,27517,430,polygon,FALSE,TRUE,America/New_York,3,28501 28504 28502 28503,1840014585
+Wesley Chapel,Wesley Chapel,NC,North Carolina,37179,Union,37179,Union,34.9984,-80.6906,8841,354,polygon,FALSE,TRUE,America/New_York,3,28104 28173 28110,1840017881
+Magnolia,Magnolia,NC,North Carolina,37061,Duplin,37061,Duplin,34.8965,-78.0537,949,340,polygon,FALSE,TRUE,America/New_York,3,28453,1840016467
+Albemarle,Albemarle,NC,North Carolina,37167,Stanly,37167,Stanly,35.3601,-80.1919,16900,363,polygon,FALSE,TRUE,America/New_York,3,28001 28002,1840013444
+Weldon,Weldon,NC,North Carolina,37083,Halifax,37083,Halifax,36.421,-77.6135,1526,206,polygon,FALSE,TRUE,America/New_York,3,27890,1840016065
+Fuquay-Varina,Fuquay-Varina,NC,North Carolina,37183,Wake,37183,Wake,35.5961,-78.7807,27906,781,polygon,FALSE,TRUE,America/New_York,3,27526,1840016197
+Brices Creek,Brices Creek,NC,North Carolina,37049,Craven,37049,Craven,35.0505,-77.0844,4006,197,polygon,FALSE,FALSE,America/New_York,3,28562,1840033011
+Boiling Springs,Boiling Springs,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.2521,-81.6636,4587,403,polygon,FALSE,TRUE,America/New_York,3,28017 28152,1840015425
+Lake Lure,Lake Lure,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.4404,-82.2064,1151,33,polygon,FALSE,TRUE,America/New_York,3,28746,1840016318
+Maxton,Maxton,NC,North Carolina,37155,Robeson,37155|37165,Robeson|Scotland,34.7364,-79.3527,2383,340,polygon,FALSE,TRUE,America/New_York,3,28364,1840016536
+Tarboro,Tarboro,NC,North Carolina,37065,Edgecombe,37065,Edgecombe,35.9046,-77.5563,12916,362,polygon,FALSE,TRUE,America/New_York,3,27886,1840016177
+Sedalia,Sedalia,NC,North Carolina,37081,Guilford,37081,Guilford,36.076,-79.6208,671,129,polygon,FALSE,TRUE,America/New_York,3,27377 27249 27342,1840017735
+Carolina Beach,Carolina Beach,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.0396,-77.8966,6270,987,polygon,FALSE,TRUE,America/New_York,3,28428,1840015575
+Brunswick,Brunswick,NC,North Carolina,37047,Columbus,37047,Columbus,34.2879,-78.7083,981,631,polygon,FALSE,TRUE,America/New_York,3,28424 28472,1840015569
+Linden,Linden,NC,North Carolina,37051,Cumberland,37051,Cumberland,35.2546,-78.7484,130,99,polygon,FALSE,TRUE,America/New_York,3,28356,1840016439
+Hoffman,Hoffman,NC,North Carolina,37153,Richmond,37153,Richmond,35.0313,-79.5491,562,63,polygon,FALSE,TRUE,America/New_York,3,28347,1840016473
+Asheville,Asheville,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.5704,-82.5537,309250,778,polygon,FALSE,TRUE,America/New_York,2,28806 28805 28804 28803 28801 28776 28810 28814 28815 28816,1840013411
+Castle Hayne,Castle Hayne,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.3583,-77.9114,850,68,polygon,FALSE,FALSE,America/New_York,3,28429,1840013628
+Light Oak,Light Oak,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.2867,-81.4775,1023,274,polygon,FALSE,FALSE,America/New_York,3,28152 28150,1840033017
+St. James,St. James,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.9467,-78.1132,4537,233,polygon,FALSE,TRUE,America/New_York,3,28461,1840017954
+Williamston,Williamston,NC,North Carolina,37117,Martin,37117,Martin,35.8468,-77.0655,5158,466,polygon,FALSE,TRUE,America/New_York,3,27892,1840016206
+Eden,Eden,NC,North Carolina,37157,Rockingham,37157,Rockingham,36.5029,-79.7421,16648,417,polygon,FALSE,TRUE,America/New_York,3,27288 27289,1840013309
+Grimesland,Grimesland,NC,North Carolina,37147,Pitt,37147,Pitt,35.5685,-77.2025,438,248,polygon,FALSE,TRUE,America/New_York,3,27837,1840016278
+Marble,Marble,NC,North Carolina,37039,Cherokee,37039,Cherokee,35.1771,-83.9265,406,142,polygon,FALSE,FALSE,America/New_York,3,28905,1840025832
+Faison,Faison,NC,North Carolina,37061,Duplin,37061,Duplin,35.1164,-78.1368,968,476,polygon,FALSE,TRUE,America/New_York,3,28341,1840016468
+Bethania,Bethania,NC,North Carolina,37067,Forsyth,37067,Forsyth,36.1808,-80.3376,356,202,polygon,FALSE,TRUE,America/New_York,3,27040 27106,1840015323
+Wake Forest,Wake Forest,NC,North Carolina,37183,Wake,37183|37069,Wake|Franklin,35.9634,-78.5139,42269,995,polygon,FALSE,TRUE,America/New_York,3,27587 27588,1840016199
+Minnesott Beach,Minnesott Beach,NC,North Carolina,37137,Pamlico,37137,Pamlico,34.9858,-76.8239,421,46,polygon,FALSE,TRUE,America/New_York,3,28510,1840016423
+Swannanoa,Swannanoa,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.6008,-82.3917,4675,282,polygon,FALSE,FALSE,America/New_York,3,28778,1840013410
+Youngsville,Youngsville,NC,North Carolina,37069,Franklin,37069,Franklin,36.0245,-78.4809,1307,290,polygon,FALSE,TRUE,America/New_York,3,27596,1840016119
+Eastover,Eastover,NC,North Carolina,37051,Cumberland,37051,Cumberland,35.0959,-78.7862,3710,126,polygon,FALSE,FALSE,America/New_York,3,28395 28312,1840022794
+Waves,Waves,NC,North Carolina,37055,Dare,37055,Dare,35.5672,-75.467,67,47,polygon,FALSE,FALSE,America/New_York,3,27972 27982 27968,1840026933
+Rutherfordton,Rutherfordton,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.3642,-81.9613,4031,377,polygon,FALSE,TRUE,America/New_York,3,28139,1840017834
+Havelock,Havelock,NC,North Carolina,37049,Craven,37049,Craven,34.9078,-76.8987,20837,452,polygon,FALSE,TRUE,America/New_York,3,28533 28532,1840014592
+Foscoe,Foscoe,NC,North Carolina,37189,Watauga,37189,Watauga,36.1535,-81.7736,1632,109,polygon,FALSE,FALSE,America/New_York,3,28604 28607,1840024901
+Salemburg,Salemburg,NC,North Carolina,37163,Sampson,37163,Sampson,35.0151,-78.5028,416,164,polygon,FALSE,TRUE,America/New_York,3,28385,1840017874
+Indian Beach,Indian Beach,NC,North Carolina,37031,Carteret,37031,Carteret,34.6882,-76.8876,117,79,polygon,FALSE,TRUE,America/New_York,3,28512 28575,1840016481
+Millers Creek,Millers Creek,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.1909,-81.2356,1560,134,polygon,FALSE,FALSE,America/New_York,3,28651,1840013338
+Broadway,Broadway,NC,North Carolina,37105,Lee,37105,Lee,35.4579,-79.0547,1262,376,polygon,FALSE,TRUE,America/New_York,3,27505,1840015420
+Princeville,Princeville,NC,North Carolina,37065,Edgecombe,37065,Edgecombe,35.8861,-77.5194,1966,501,polygon,FALSE,TRUE,America/New_York,3,27886,1840017752
+East Flat Rock,East Flat Rock,NC,North Carolina,37089,Henderson,37089,Henderson,35.2802,-82.4171,4287,386,polygon,FALSE,FALSE,America/New_York,3,28792 28726 28731,1840013073
+Lowell,Lowell,NC,North Carolina,37071,Gaston,37071,Gaston,35.2689,-81.1013,3654,519,polygon,FALSE,TRUE,America/New_York,3,28098,1840015454
+Spruce Pine,Spruce Pine,NC,North Carolina,37121,Mitchell,37121,Mitchell,35.9104,-82.0731,4602,175,polygon,FALSE,TRUE,America/New_York,3,28777,1840017751
+Oakboro,Oakboro,NC,North Carolina,37167,Stanly,37167,Stanly,35.2283,-80.334,1875,294,polygon,FALSE,TRUE,America/New_York,3,28129,1840016368
+Oxford,Oxford,NC,North Carolina,37077,Granville,37077,Granville,36.3156,-78.5848,9488,542,polygon,FALSE,TRUE,America/New_York,3,27565,1840014435
+Fairplains,Fairplains,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.1954,-81.1559,2118,194,polygon,FALSE,FALSE,America/New_York,3,28659,1840013065
+Sawmills,Sawmills,NC,North Carolina,37027,Caldwell,37027,Caldwell,35.8162,-81.4779,5180,302,polygon,FALSE,TRUE,America/New_York,3,28630 28638,1840017755
+Micro,Micro,NC,North Carolina,37101,Johnston,37101,Johnston,35.5623,-78.2037,505,482,polygon,FALSE,TRUE,America/New_York,3,27555,1840016289
+Hightsville,Hightsville,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.2667,-77.9342,824,215,polygon,FALSE,FALSE,America/New_York,3,28401,1840013627
+Walnut Cove,Walnut Cove,NC,North Carolina,37169,Stokes,37169,Stokes,36.2943,-80.1407,1363,218,polygon,FALSE,TRUE,America/New_York,3,27052,1840016035
+Zebulon,Zebulon,NC,North Carolina,37183,Wake,37183,Wake,35.8318,-78.3162,5268,436,polygon,FALSE,TRUE,America/New_York,3,27597,1840016201
+Fruitland,Fruitland,NC,North Carolina,37089,Henderson,37089,Henderson,35.3928,-82.412,2275,109,polygon,FALSE,FALSE,America/New_York,3,28792,1840024955
+Ramseur,Ramseur,NC,North Carolina,37151,Randolph,37151,Randolph,35.7372,-79.6543,2949,327,polygon,FALSE,TRUE,America/New_York,3,27316,1840017780
+Dunn,Dunn,NC,North Carolina,37085,Harnett,37085,Harnett,35.3113,-78.6129,15576,549,polygon,FALSE,TRUE,America/New_York,3,28334 28335,1840013434
+Lawndale,Lawndale,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.4142,-81.5631,589,282,polygon,FALSE,TRUE,America/New_York,3,28090,1840016331
+Nashville,Nashville,NC,North Carolina,37127,Nash,37127,Nash,35.9693,-77.9552,5487,455,polygon,FALSE,TRUE,America/New_York,3,27856,1840016167
+Matthews,Matthews,NC,North Carolina,37119,Mecklenburg,37119,Mecklenburg,35.1195,-80.7101,32117,724,polygon,FALSE,TRUE,America/New_York,3,28105 28106,1840016350
+Aberdeen,Aberdeen,NC,North Carolina,37125,Moore,37125,Moore,35.1351,-79.4319,7625,300,polygon,FALSE,TRUE,America/New_York,3,28315,1840015433
+Weaverville,Weaverville,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.6962,-82.5581,3911,402,polygon,FALSE,TRUE,America/New_York,3,28787 28804,1840016284
+Mount Pleasant,Mount Pleasant,NC,North Carolina,37025,Cabarrus,37025,Cabarrus,35.3752,-80.4496,1904,220,polygon,FALSE,TRUE,America/New_York,3,28124 28025,1840016363
+East Bend,East Bend,NC,North Carolina,37197,Yadkin,37197,Yadkin,36.2178,-80.5085,578,170,polygon,FALSE,TRUE,America/New_York,3,27018,1840016111
+Fairfield Harbour,Fairfield Harbour,NC,North Carolina,37049,Craven,37049,Craven,35.0706,-76.9571,3044,408,polygon,FALSE,FALSE,America/New_York,3,28560,1840013076
+Winton,Winton,NC,North Carolina,37091,Hertford,37091,Hertford,36.3899,-76.9349,737,351,polygon,FALSE,TRUE,America/New_York,3,27986,1840016048
+Bennett,Bennett,NC,North Carolina,37037,Chatham,37037,Chatham,35.5664,-79.54,377,45,polygon,FALSE,FALSE,America/New_York,3,27208,1840025792
+Rich Square,Rich Square,NC,North Carolina,37131,Northampton,37131,Northampton,36.2739,-77.2839,855,106,polygon,FALSE,TRUE,America/New_York,3,27869,1840017701
+King,King,NC,North Carolina,37169,Stokes,37169|37067,Stokes|Forsyth,36.2767,-80.3561,6904,455,polygon,FALSE,TRUE,America/New_York,3,27021,1840014431
+River Road,River Road,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.5107,-76.9898,3387,184,polygon,FALSE,FALSE,America/New_York,3,27889,1840033022
+Newton Grove,Newton Grove,NC,North Carolina,37163,Sampson,37163,Sampson,35.2522,-78.3552,563,70,polygon,FALSE,TRUE,America/New_York,3,28366,1840016435
+Dana,Dana,NC,North Carolina,37089,Henderson,37089,Henderson,35.3239,-82.3722,3426,148,polygon,FALSE,FALSE,America/New_York,3,28792 28731 28724,1840024953
+West Marion,West Marion,NC,North Carolina,37111,McDowell,37111,McDowell,35.6525,-82.0191,1395,361,polygon,FALSE,FALSE,America/New_York,3,28752,1840013397
+Eureka,Eureka,NC,North Carolina,37191,Wayne,37191,Wayne,35.5414,-77.8763,196,221,polygon,FALSE,TRUE,America/New_York,3,27830,1840016322
+Wilson,Wilson,NC,North Carolina,37195,Wilson,37195,Wilson,35.7312,-77.9284,49372,613,polygon,FALSE,TRUE,America/New_York,3,27893 27896 27894 27895,1840015383
+Shallotte,Shallotte,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.9755,-78.3807,4092,167,polygon,FALSE,TRUE,America/New_York,3,28462 28470,1840017953
+Caroleen,Caroleen,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.2811,-81.7914,737,257,polygon,FALSE,FALSE,America/New_York,3,28043 28040 28114 28019,1840025816
+Wilson's Mills,Wilson's Mills,NC,North Carolina,37101,Johnston,37101,Johnston,35.5842,-78.3601,2626,233,polygon,FALSE,TRUE,America/New_York,3,27520 27577 27527,1840032896
+South Weldon,South Weldon,NC,North Carolina,37083,Halifax,37083,Halifax,36.4135,-77.6024,626,555,polygon,FALSE,FALSE,America/New_York,3,27890,1840013310
+Four Oaks,Four Oaks,NC,North Carolina,37101,Johnston,37101,Johnston,35.4503,-78.4172,2082,442,polygon,FALSE,TRUE,America/New_York,3,27524,1840016291
+Clemmons,Clemmons,NC,North Carolina,37067,Forsyth,37067,Forsyth,36.0318,-80.3861,20420,665,polygon,FALSE,TRUE,America/New_York,3,27012 27103,1840017728
+Louisburg,Louisburg,NC,North Carolina,37069,Franklin,37069,Franklin,36.0979,-78.301,3885,491,polygon,FALSE,TRUE,America/New_York,3,27549,1840016116
+Elrod,Elrod,NC,North Carolina,37155,Robeson,37155,Robeson,34.6072,-79.2307,705,50,polygon,FALSE,FALSE,America/New_York,3,28383,1840013085
+Parkton,Parkton,NC,North Carolina,37155,Robeson,37155,Robeson,34.9028,-79.0098,421,239,polygon,FALSE,TRUE,America/New_York,3,28371,1840016540
+Kitty Hawk,Kitty Hawk,NC,North Carolina,37055,Dare,37055,Dare,36.0717,-75.7184,3496,166,polygon,FALSE,TRUE,America/New_York,3,27949,1840016155
+McFarlan,McFarlan,NC,North Carolina,37007,Anson,37007,Anson,34.8148,-79.9766,109,45,polygon,FALSE,TRUE,America/New_York,3,28102 28119,1840016448
+Norlina,Norlina,NC,North Carolina,37185,Warren,37185,Warren,36.4451,-78.1952,1063,368,polygon,FALSE,TRUE,America/New_York,3,27563,1840016038
+Bethlehem,Bethlehem,NC,North Carolina,37003,Alexander,37003,Alexander,35.8162,-81.2962,4592,232,polygon,FALSE,FALSE,America/New_York,3,28601 28681,1840013382
+Hayesville,Hayesville,NC,North Carolina,37043,Clay,37043,Clay,35.0463,-83.8181,432,343,polygon,FALSE,TRUE,America/New_York,3,28904,1840015491
+Silver City,Silver City,NC,North Carolina,37093,Hoke,37093,Hoke,34.9972,-79.2292,893,230,polygon,FALSE,FALSE,America/New_York,3,28376,1840013506
+Vandemere,Vandemere,NC,North Carolina,37137,Pamlico,37137,Pamlico,35.1886,-76.6651,244,61,polygon,FALSE,TRUE,America/New_York,3,28587,1840016426
+Gloucester,Gloucester,NC,North Carolina,37031,Carteret,37031,Carteret,34.7292,-76.539,522,140,polygon,FALSE,FALSE,America/New_York,3,28528,1840025837
+Hassell,Hassell,NC,North Carolina,37117,Martin,37117,Martin,35.9084,-77.2762,77,108,polygon,FALSE,TRUE,America/New_York,3,27841,1840016205
+Candor,Candor,NC,North Carolina,37123,Montgomery,37123,Montgomery,35.2964,-79.7323,828,157,polygon,FALSE,TRUE,America/New_York,3,27229 27209,1840015436
+Whispering Pines,Whispering Pines,NC,North Carolina,37125,Moore,37125,Moore,35.2538,-79.3753,3956,354,polygon,FALSE,TRUE,America/New_York,3,28327,1840017853
+Northlakes,Northlakes,NC,North Carolina,37027,Caldwell,37027,Caldwell,35.7755,-81.3669,1332,343,polygon,FALSE,FALSE,America/New_York,3,28601,1840033021
+Bridgeton,Bridgeton,NC,North Carolina,37049,Craven,37049,Craven,35.1348,-77.016,441,83,polygon,FALSE,TRUE,America/New_York,3,28560 28519,1840015456
+Charlotte,Charlotte,NC,North Carolina,37119,Mecklenburg,37119,Mecklenburg,35.2079,-80.8304,1467362,1081,polygon,FALSE,TRUE,America/New_York,1,28269 28262 28105 28280 28282 28209 28208 28205 28204 28207 28206 28203 28202 28227 28226 28278 28270 28273 28277 28134 28216 28217 28214 28215 28212 28213 28210 28211 28244 28126 28130 28201 28218 28219 28220 28221 28222 28223 28224 28228 28229 28230 28231 28232 28233 28234 28235 28237 28241 28242 28243 28246 28247 28253 28254 28255 28256 28258 28260 28263 28265 28266 28271 28272 28274 28275 28281 28284 28285 28287 28288 28289 28290 28296 28297 28299,1840014557
+Tabor City,Tabor City,NC,North Carolina,37047,Columbus,37047,Columbus,34.1538,-78.8737,5987,450,polygon,FALSE,TRUE,America/New_York,3,28463,1840016665
+North Wilkesboro,North Wilkesboro,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.1728,-81.1391,18393,249,polygon,FALSE,TRUE,America/New_York,3,28659,1840016094
+Saxapahaw,Saxapahaw,NC,North Carolina,37001,Alamance,37001,Alamance,35.9489,-79.321,1370,102,polygon,FALSE,FALSE,America/New_York,3,27253 27340,1840013359
+Delco,Delco,NC,North Carolina,37047,Columbus,37047,Columbus,34.3188,-78.2267,274,70,polygon,FALSE,FALSE,America/New_York,3,28436,1840025856
+Coinjock,Coinjock,NC,North Carolina,37053,Currituck,37053,Currituck,36.3513,-75.9527,331,152,polygon,FALSE,FALSE,America/New_York,3,27917 27923,1840025763
+Potters Hill,Potters Hill,NC,North Carolina,37061,Duplin,37061,Duplin,34.9645,-77.6983,616,44,polygon,FALSE,FALSE,America/New_York,3,28572,1840025833
+Laurel Hill,Laurel Hill,NC,North Carolina,37165,Scotland,37165,Scotland,34.8102,-79.546,1118,180,polygon,FALSE,FALSE,America/New_York,3,28351,1840024990
+Carolina Shores,Carolina Shores,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.9077,-78.5738,4146,598,polygon,FALSE,TRUE,America/New_York,3,28467,1840015581
+Icard,Icard,NC,North Carolina,37023,Burke,37023,Burke,35.7253,-81.4582,2890,291,polygon,FALSE,FALSE,America/New_York,3,28612 28666 28602,1840013391
+Leland,Leland,NC,North Carolina,37019,Brunswick,37019,Brunswick,34.204,-78.028,19976,392,polygon,FALSE,TRUE,America/New_York,3,28451 28479,1840016683
+Whiteville,Whiteville,NC,North Carolina,37047,Columbus,37047,Columbus,34.3306,-78.7013,7449,376,polygon,FALSE,TRUE,America/New_York,3,28472,1840015570
+Cooleemee,Cooleemee,NC,North Carolina,37059,Davie,37059,Davie,35.8126,-80.5561,965,492,polygon,FALSE,TRUE,America/New_York,3,27028 27014,1840016213
+Belmont,Belmont,NC,North Carolina,37071,Gaston,37071,Gaston,35.2214,-81.0403,12046,387,polygon,FALSE,TRUE,America/New_York,3,28012,1840013469
+Monroe,Monroe,NC,North Carolina,37179,Union,37179,Union,35.0061,-80.5593,35065,454,polygon,FALSE,TRUE,America/New_York,3,28110 28112 28111,1840014613
+High Shoals,High Shoals,NC,North Carolina,37071,Gaston,37071,Gaston,35.3957,-81.2047,737,109,polygon,FALSE,TRUE,America/New_York,3,28034 28077,1840015455
+Varnamtown,Varnamtown,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.9432,-78.236,577,245,polygon,FALSE,TRUE,America/New_York,3,28462,1840016686
+Robersonville,Robersonville,NC,North Carolina,37117,Martin,37117,Martin,35.8248,-77.2529,1374,433,polygon,FALSE,TRUE,America/New_York,3,27871,1840017760
+Ruth,Ruth,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.3824,-81.9448,413,375,polygon,FALSE,TRUE,America/New_York,3,28139,1840017833
+Creswell,Creswell,NC,North Carolina,37187,Washington,37187,Washington,35.8743,-76.4033,241,164,polygon,FALSE,TRUE,America/New_York,3,27928,1840016241
+South Rosemary,South Rosemary,NC,North Carolina,37083,Halifax,37083,Halifax,36.4463,-77.7065,2488,156,polygon,FALSE,FALSE,America/New_York,3,27870,1840033024
+Southport,Southport,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.9411,-78.0205,3725,363,polygon,FALSE,TRUE,America/New_York,3,28461,1840015582
+Shelby,Shelby,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.2904,-81.5451,26962,346,polygon,FALSE,TRUE,America/New_York,3,28152 28150 28151,1840015426
+Cherokee,Cherokee,NC,North Carolina,37173,Swain,37173|37099,Swain|Jackson,35.486,-83.3011,2309,73,polygon,FALSE,FALSE,America/New_York,3,28719,1840026949
+Belvoir,Belvoir,NC,North Carolina,37147,Pitt,37147,Pitt,35.7111,-77.47,670,130,polygon,FALSE,FALSE,America/New_York,3,27834,1840024930
+Sims,Sims,NC,North Carolina,37195,Wilson,37195,Wilson,35.7601,-78.0589,287,634,polygon,FALSE,TRUE,America/New_York,3,27880,1840017785
+Salvo,Salvo,NC,North Carolina,37055,Dare,37055,Dare,35.549,-75.4689,269,107,polygon,FALSE,FALSE,America/New_York,3,27972,1840025786
+Badin,Badin,NC,North Carolina,37167,Stanly,37167,Stanly,35.4072,-80.1184,1960,417,polygon,FALSE,TRUE,America/New_York,3,28127 28009,1840015438
+Lake Royale,Lake Royale,NC,North Carolina,37069,Franklin,37069,Franklin,35.9666,-78.196,2677,158,polygon,FALSE,TRUE,America/New_York,3,27549,1840040280
+Long View,Long View,NC,North Carolina,37035,Catawba,37035|37023,Catawba|Burke,35.7217,-81.3858,4886,471,polygon,FALSE,TRUE,America/New_York,3,28601 28602,1840033007
+Elizabethtown,Elizabethtown,NC,North Carolina,37017,Bladen,37017,Bladen,34.6238,-78.6097,2989,288,polygon,FALSE,TRUE,America/New_York,3,28337,1840016564
+Sparta,Sparta,NC,North Carolina,37005,Alleghany,37005,Alleghany,36.5035,-81.1218,1744,280,polygon,FALSE,TRUE,America/New_York,3,28675,1840017700
+Fremont,Fremont,NC,North Carolina,37191,Wayne,37191,Wayne,35.5436,-77.9751,1267,360,polygon,FALSE,TRUE,America/New_York,3,27830,1840016323
+Plain View,Plain View,NC,North Carolina,37163,Sampson,37163,Sampson,35.2457,-78.5634,2120,49,polygon,FALSE,FALSE,America/New_York,3,28334,1840013486
+Jacksonville,Jacksonville,NC,North Carolina,37133,Onslow,37133,Onslow,34.7287,-77.394,108872,576,polygon,FALSE,TRUE,America/New_York,2,28546 28547 28543 28540 28541 28542 28545,1840014653
+Stallings,Stallings,NC,North Carolina,37179,Union,37179|37119,Union|Mecklenburg,35.109,-80.6594,15647,729,polygon,FALSE,TRUE,America/New_York,3,28104,1840017878
+Harkers Island,Harkers Island,NC,North Carolina,37031,Carteret,37031,Carteret,34.7002,-76.5612,1447,249,polygon,FALSE,FALSE,America/New_York,3,28531,1840013523
+Broad Creek,Broad Creek,NC,North Carolina,37031,Carteret,37031,Carteret,34.7304,-76.9241,2450,304,polygon,FALSE,FALSE,America/New_York,3,28570,1840025835
+Duck,Duck,NC,North Carolina,37055,Dare,37055,Dare,36.1836,-75.7559,385,61,polygon,FALSE,TRUE,America/New_York,3,27949,1840016158
+Lewiston Woodville,Lewiston Woodville,NC,North Carolina,37015,Bertie,37015,Bertie,36.1141,-77.1811,499,98,polygon,FALSE,TRUE,America/New_York,3,27849,1840016148
+Cliffside,Cliffside,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.248,-81.7653,258,42,polygon,FALSE,FALSE,America/New_York,3,28114,1840025817
+Kings Mountain,Kings Mountain,NC,North Carolina,37045,Cleveland,37045|37071,Cleveland|Gaston,35.2348,-81.3501,10791,310,polygon,FALSE,TRUE,America/New_York,3,28086,1840014552
+Andrews,Andrews,NC,North Carolina,37039,Cherokee,37039,Cherokee,35.1994,-83.8258,1819,413,polygon,FALSE,TRUE,America/New_York,3,28901,1840015474
+Stem,Stem,NC,North Carolina,37077,Granville,37077,Granville,36.1963,-78.7201,560,143,polygon,FALSE,TRUE,America/New_York,3,27581,1840016051
+Faith,Faith,NC,North Carolina,37159,Rowan,37159,Rowan,35.5901,-80.4581,796,286,polygon,FALSE,TRUE,America/New_York,3,28146 28041,1840016267
+Stonewall,Stonewall,NC,North Carolina,37137,Pamlico,37137,Pamlico,35.1371,-76.7405,268,60,polygon,FALSE,TRUE,America/New_York,3,28583,1840016425
+Clinton,Clinton,NC,North Carolina,37163,Sampson,37163,Sampson,35.0005,-78.3311,9428,434,polygon,FALSE,TRUE,America/New_York,3,28328 28329,1840014605
+Fallston,Fallston,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.4289,-81.5023,597,106,polygon,FALSE,TRUE,America/New_York,3,28090 28042,1840016335
+Barker Heights,Barker Heights,NC,North Carolina,37089,Henderson,37089,Henderson,35.3104,-82.4412,1609,621,polygon,FALSE,FALSE,America/New_York,3,28792,1840013446
+Spring Lake,Spring Lake,NC,North Carolina,37051,Cumberland,37051,Cumberland,35.1841,-78.9962,12580,209,polygon,FALSE,TRUE,America/New_York,3,28308 28390,1840017875
+Lake Santeetlah,Lake Santeetlah,NC,North Carolina,37075,Graham,37075,Graham,35.3636,-83.8664,43,85,polygon,FALSE,TRUE,America/New_York,3,28771,1840001770
+La Grange,La Grange,NC,North Carolina,37107,Lenoir,37107,Lenoir,35.3064,-77.789,2515,446,polygon,FALSE,TRUE,America/New_York,3,28551,1840016389
+Taylorsville,Taylorsville,NC,North Carolina,37003,Alexander,37003,Alexander,35.9175,-81.1754,5595,353,polygon,FALSE,TRUE,America/New_York,3,28681,1840016220
+Conover,Conover,NC,North Carolina,37035,Catawba,37035,Catawba,35.7156,-81.2168,8368,289,polygon,FALSE,TRUE,America/New_York,3,28613,1840014522
+Butters,Butters,NC,North Carolina,37017,Bladen,37017,Bladen,34.5603,-78.8489,191,49,polygon,FALSE,FALSE,America/New_York,3,28320,1840013567
+Murphy,Murphy,NC,North Carolina,37039,Cherokee,37039,Cherokee,35.0932,-84.0279,1638,248,polygon,FALSE,TRUE,America/New_York,3,28906,1840016437
+Engelhard,Engelhard,NC,North Carolina,37095,Hyde,37095,Hyde,35.5092,-76.0096,613,73,polygon,FALSE,FALSE,America/New_York,3,27824,1840025809
+Hobucken,Hobucken,NC,North Carolina,37137,Pamlico,37137,Pamlico,35.2544,-76.5712,80,6,polygon,FALSE,FALSE,America/New_York,3,28537,1840025831
+Mulberry,Mulberry,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.2257,-81.1653,2132,161,polygon,FALSE,FALSE,America/New_York,3,28659,1840013340
+Beaufort,Beaufort,NC,North Carolina,37031,Carteret,37031,Carteret,34.7309,-76.6487,4164,331,polygon,FALSE,TRUE,America/New_York,3,28516,1840015496
+Marshallberg,Marshallberg,NC,North Carolina,37031,Carteret,37031,Carteret,34.7267,-76.515,331,200,polygon,FALSE,FALSE,America/New_York,3,28553,1840025838
+Kings Grant,Kings Grant,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.2665,-77.8659,9119,775,polygon,FALSE,FALSE,America/New_York,3,28405,1840032902
+Rowland,Rowland,NC,North Carolina,37155,Robeson,37155,Robeson,34.5362,-79.2928,1014,372,polygon,FALSE,TRUE,America/New_York,3,28383,1840017909
+Mocksville,Mocksville,NC,North Carolina,37059,Davie,37059,Davie,35.9002,-80.562,5416,267,polygon,FALSE,TRUE,America/New_York,3,27028,1840016212
+Cleveland,Cleveland,NC,North Carolina,37159,Rowan,37159,Rowan,35.7327,-80.6815,875,201,polygon,FALSE,TRUE,America/New_York,3,27013,1840016265
+Parmele,Parmele,NC,North Carolina,37117,Martin,37117,Martin,35.819,-77.3146,258,83,polygon,FALSE,TRUE,America/New_York,3,27861 27871,1840016208
+Boonville,Boonville,NC,North Carolina,37197,Yadkin,37197,Yadkin,36.234,-80.7093,1168,376,polygon,FALSE,TRUE,America/New_York,3,27011,1840015319
+Fletcher,Fletcher,NC,North Carolina,37089,Henderson,37089,Henderson,35.4316,-82.5038,8233,497,polygon,FALSE,TRUE,America/New_York,3,28732,1840016371
+Manteo,Manteo,NC,North Carolina,37055,Dare,37055,Dare,35.9013,-75.661,5403,292,polygon,FALSE,TRUE,America/New_York,3,27954,1840016156
+Unionville,Unionville,NC,North Carolina,37179,Union,37179,Union,35.072,-80.5174,6705,88,polygon,FALSE,TRUE,America/New_York,3,28110,1840016457
+White Oak,White Oak,NC,North Carolina,37017,Bladen,37017,Bladen,34.7396,-78.7186,121,9,polygon,FALSE,FALSE,America/New_York,3,28399,1840013568
+Fayetteville,Fayetteville,NC,North Carolina,37051,Cumberland,37051,Cumberland,35.0846,-78.9776,324700,548,polygon,FALSE,TRUE,America/New_York,2,28304 28305 28306 28307 28301 28303 28308 28390 28311 28310 28314 28302 28309,1840013490
+Cerro Gordo,Cerro Gordo,NC,North Carolina,37047,Columbus,37047,Columbus,34.3225,-78.9287,200,98,polygon,FALSE,TRUE,America/New_York,3,28430,1840016662
+Lumber Bridge,Lumber Bridge,NC,North Carolina,37155,Robeson,37155,Robeson,34.8898,-79.0724,90,51,polygon,FALSE,TRUE,America/New_York,3,28357,1840016534
+Staley,Staley,NC,North Carolina,37151,Randolph,37151,Randolph,35.7979,-79.5517,393,130,polygon,FALSE,TRUE,America/New_York,3,27355,1840017782
+Mar-Mac,Mar-Mac,NC,North Carolina,37191,Wayne,37191,Wayne,35.3345,-78.0545,3003,254,polygon,FALSE,FALSE,America/New_York,3,28333 27530,1840033018
+Edenton,Edenton,NC,North Carolina,37041,Chowan,37041,Chowan,36.058,-76.6008,4507,338,polygon,FALSE,TRUE,America/New_York,3,27932,1840016103
+Spindale,Spindale,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.3599,-81.9232,4218,304,polygon,FALSE,TRUE,America/New_York,3,28160,1840017835
+Reidsville,Reidsville,NC,North Carolina,37157,Rockingham,37157,Rockingham,36.3379,-79.6727,13425,366,polygon,FALSE,TRUE,America/New_York,3,27320 27323 27375,1840014436
+Autryville,Autryville,NC,North Carolina,37163,Sampson,37163,Sampson,34.9965,-78.6412,200,147,polygon,FALSE,TRUE,America/New_York,3,28318,1840015473
+Gatesville,Gatesville,NC,North Carolina,37073,Gates,37073,Gates,36.4072,-76.7566,299,285,polygon,FALSE,TRUE,America/New_York,3,27938,1840016033
+Frisco,Frisco,NC,North Carolina,37055,Dare,37055,Dare,35.2331,-75.6289,152,78,polygon,FALSE,FALSE,America/New_York,3,27936,1840025782
+Castalia,Castalia,NC,North Carolina,37127,Nash,37127,Nash,36.0823,-78.0576,264,135,polygon,FALSE,TRUE,America/New_York,3,27816,1840016164
+Biscoe,Biscoe,NC,North Carolina,37123,Montgomery,37123,Montgomery,35.3585,-79.7816,2784,240,polygon,FALSE,TRUE,America/New_York,3,27209,1840015435
+Bayshore,Bayshore,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.2893,-77.8025,3790,621,polygon,FALSE,FALSE,America/New_York,3,28411,1840033015
+Cordova,Cordova,NC,North Carolina,37153,Richmond,37153,Richmond,34.9103,-79.812,1974,357,polygon,FALSE,FALSE,America/New_York,3,28379 28330,1840024981
+Toast,Toast,NC,North Carolina,37171,Surry,37171,Surry,36.4966,-80.6346,1392,354,polygon,FALSE,FALSE,America/New_York,3,27030 27049,1840013306
+River Bend,River Bend,NC,North Carolina,37049,Craven,37049,Craven,35.0717,-77.1504,3065,471,polygon,FALSE,TRUE,America/New_York,3,28562,1840017866
+Trent Woods,Trent Woods,NC,North Carolina,37049,Craven,37049,Craven,35.081,-77.0945,4077,529,polygon,FALSE,TRUE,America/New_York,3,28562,1840016401
+White Plains,White Plains,NC,North Carolina,37171,Surry,37171,Surry,36.4451,-80.6351,1086,104,polygon,FALSE,FALSE,America/New_York,3,27030 27031,1840013307
+Maysville,Maysville,NC,North Carolina,37103,Jones,37103,Jones,34.9069,-77.2323,959,432,polygon,FALSE,TRUE,America/New_York,3,28555,1840016444
+Bayboro,Bayboro,NC,North Carolina,37137,Pamlico,37137,Pamlico,35.1474,-76.7692,1235,257,polygon,FALSE,TRUE,America/New_York,3,28515,1840015470
+Kingstown,Kingstown,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.3621,-81.62,672,147,polygon,FALSE,TRUE,America/New_York,3,28150,1840016329
+Hudson,Hudson,NC,North Carolina,37027,Caldwell,37027,Caldwell,35.8475,-81.4864,3698,382,polygon,FALSE,TRUE,America/New_York,3,28638,1840016187
+Crossnore,Crossnore,NC,North Carolina,37011,Avery,37011,Avery,36.0222,-81.9308,201,173,polygon,FALSE,TRUE,America/New_York,3,28616,1840016113
+Topsail Beach,Topsail Beach,NC,North Carolina,37141,Pender,37141,Pender,34.3744,-77.6321,420,36,polygon,FALSE,TRUE,America/New_York,3,28445,1840016604
+West Canton,West Canton,NC,North Carolina,37087,Haywood,37087,Haywood,35.5384,-82.8671,1224,343,polygon,FALSE,FALSE,America/New_York,3,28716 28721,1840013415
+Surf City,Surf City,NC,North Carolina,37141,Pender,37141|37133,Pender|Onslow,34.4345,-77.5643,2342,120,polygon,FALSE,TRUE,America/New_York,3,28445 28443,1840016603
+Moyock,Moyock,NC,North Carolina,37053,Currituck,37053,Currituck,36.5165,-76.1728,3227,119,polygon,FALSE,FALSE,America/New_York,3,27958,1840025764
+Mooresboro,Mooresboro,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.2992,-81.6986,307,67,polygon,FALSE,TRUE,America/New_York,3,28114 28152,1840016332
+Chapel Hill,Chapel Hill,NC,North Carolina,37135,Orange,37135|37063,Orange|Durham,35.927,-79.0391,59862,1073,polygon,FALSE,TRUE,America/New_York,3,27516 27514 27517 27515 27599,1840016152
+Bonnetsville,Bonnetsville,NC,North Carolina,37163,Sampson,37163,Sampson,34.9993,-78.3962,507,59,polygon,FALSE,FALSE,America/New_York,3,28328,1840013482
+Erwin,Erwin,NC,North Carolina,37085,Harnett,37085,Harnett,35.3226,-78.6734,4919,450,polygon,FALSE,TRUE,America/New_York,3,28339 28334,1840016328
+Lake Park,Lake Park,NC,North Carolina,37179,Union,37179,Union,35.0848,-80.6349,3790,1869,polygon,FALSE,TRUE,America/New_York,3,28079,1840017879
+Wrightsboro,Wrightsboro,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.2895,-77.9217,5642,195,polygon,FALSE,FALSE,America/New_York,3,28401 28405 28429,1840013630
+Red Cross,Red Cross,NC,North Carolina,37167,Stanly,37167,Stanly,35.2659,-80.3623,749,80,polygon,FALSE,TRUE,America/New_York,3,28129 28097,1840017854
+Wingate,Wingate,NC,North Carolina,37179,Union,37179,Union,34.9855,-80.4496,3959,768,polygon,FALSE,TRUE,America/New_York,3,28174,1840016460
+Washington Park,Washington Park,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.5328,-77.0316,432,631,polygon,FALSE,TRUE,America/New_York,3,27889,1840016303
+Bear Grass,Bear Grass,NC,North Carolina,37117,Martin,37117,Martin,35.766,-77.1291,69,100,polygon,FALSE,TRUE,America/New_York,3,27892,1840015356
+Brevard,Brevard,NC,North Carolina,37175,Transylvania,37175,Transylvania,35.2439,-82.7265,13603,571,polygon,FALSE,TRUE,America/New_York,3,28712,1840013467
+Stony Point,Stony Point,NC,North Carolina,37003,Alexander,37003|37097,Alexander|Iredell,35.8669,-81.047,2021,261,polygon,FALSE,FALSE,America/New_York,3,28678,1840013383
+Pinetown,Pinetown,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.6111,-76.8558,132,50,polygon,FALSE,FALSE,America/New_York,3,27865,1840025807
+Highlands,Highlands,NC,North Carolina,37113,Macon,37113,Macon,35.0539,-83.1976,939,59,polygon,FALSE,TRUE,America/New_York,3,28741,1840015467
+Siler City,Siler City,NC,North Carolina,37037,Chatham,37037,Chatham,35.7252,-79.4558,9424,527,polygon,FALSE,TRUE,America/New_York,3,27344,1840017783
+Waxhaw,Waxhaw,NC,North Carolina,37179,Union,37179,Union,34.9364,-80.7437,15147,491,polygon,FALSE,TRUE,America/New_York,3,28173,1840016458
+Rocky Point,Rocky Point,NC,North Carolina,37141,Pender,37141,Pender,34.4441,-77.8909,1879,105,polygon,FALSE,FALSE,America/New_York,3,28457,1840025848
+Holly Ridge,Holly Ridge,NC,North Carolina,37133,Onslow,37133,Onslow,34.4952,-77.5271,2377,229,polygon,FALSE,TRUE,America/New_York,3,28445,1840016531
+East Rockingham,East Rockingham,NC,North Carolina,37153,Richmond,37153,Richmond,34.9116,-79.766,3397,382,polygon,FALSE,FALSE,America/New_York,3,28379,1840013081
+Riegelwood,Riegelwood,NC,North Carolina,37047,Columbus,37047,Columbus,34.3444,-78.2198,441,55,polygon,FALSE,FALSE,America/New_York,3,28456,1840025859
+Ansonville,Ansonville,NC,North Carolina,37007,Anson,37007,Anson,35.1042,-80.1098,583,152,polygon,FALSE,TRUE,America/New_York,3,28170 28007,1840015479
+Askewville,Askewville,NC,North Carolina,37015,Bertie,37015,Bertie,36.1116,-76.9412,224,146,polygon,FALSE,TRUE,America/New_York,3,27983,1840015332
+Sugar Mountain,Sugar Mountain,NC,North Carolina,37011,Avery,37011,Avery,36.127,-81.8649,197,31,polygon,FALSE,TRUE,America/New_York,3,28604,1840017726
+Harrisburg,Harrisburg,NC,North Carolina,37025,Cabarrus,37025,Cabarrus,35.3126,-80.649,15728,550,polygon,FALSE,TRUE,America/New_York,3,28075,1840016364
+Chadbourn,Chadbourn,NC,North Carolina,37047,Columbus,37047,Columbus,34.325,-78.825,1742,258,polygon,FALSE,TRUE,America/New_York,3,28431,1840016663
+Hemby Bridge,Hemby Bridge,NC,North Carolina,37179,Union,37179,Union,35.1058,-80.6258,1734,285,polygon,FALSE,TRUE,America/New_York,3,28079,1840015480
+Wrightsville Beach,Wrightsville Beach,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.213,-77.798,2548,703,polygon,FALSE,TRUE,America/New_York,3,28480,1840016677
+Rex,Rex,NC,North Carolina,37155,Robeson,37155,Robeson,34.8507,-79.0469,25,13,polygon,FALSE,FALSE,America/New_York,3,28384 28378,1840013562
+Oriental,Oriental,NC,North Carolina,37137,Pamlico,37137,Pamlico,35.0359,-76.6816,861,232,polygon,FALSE,TRUE,America/New_York,3,28571,1840016427
+Jamestown,Jamestown,NC,North Carolina,37081,Guilford,37081,Guilford,35.9984,-79.9353,4167,546,polygon,FALSE,TRUE,America/New_York,3,27282 27265,1840016136
+Winston-Salem,Winston-Salem,NC,North Carolina,37067,Forsyth,37067,Forsyth,36.1029,-80.261,416581,712,polygon,FALSE,TRUE,America/New_York,2,27110 27127 27040 27107 27106 27105 27104 27103 27101 27109 27102 27108 27111 27113 27114 27115 27116 27117 27120 27130 27150 27152 27155 27157 27198 27199,1840015324
+Seven Devils,Seven Devils,NC,North Carolina,37011,Avery,37011|37189,Avery|Watauga,36.1493,-81.8114,205,34,polygon,FALSE,TRUE,America/New_York,3,28604,1840017725
+Boiling Spring Lakes,Boiling Spring Lakes,NC,North Carolina,37019,Brunswick,37019,Brunswick,34.0322,-78.068,4934,100,polygon,FALSE,TRUE,America/New_York,3,28461,1840013635
+Gibsonville,Gibsonville,NC,North Carolina,37081,Guilford,37081|37001,Guilford|Alamance,36.0991,-79.5418,7096,762,polygon,FALSE,TRUE,America/New_York,3,27377 27249,1840016137
+Hollister,Hollister,NC,North Carolina,37083,Halifax,37083,Halifax,36.2593,-77.9363,835,81,polygon,FALSE,FALSE,America/New_York,3,27844,1840025769
+Peachland,Peachland,NC,North Carolina,37007,Anson,37007,Anson,34.9931,-80.266,404,154,polygon,FALSE,TRUE,America/New_York,3,28133,1840016451
+Granite Quarry,Granite Quarry,NC,North Carolina,37159,Rowan,37159,Rowan,35.6126,-80.4484,2983,401,polygon,FALSE,TRUE,America/New_York,3,28146 28072,1840016268
+Rockwell,Rockwell,NC,North Carolina,37159,Rowan,37159,Rowan,35.5538,-80.4072,2142,483,polygon,FALSE,TRUE,America/New_York,3,28138,1840017786
+Wendell,Wendell,NC,North Carolina,37183,Wake,37183,Wake,35.7823,-78.3959,16408,530,polygon,FALSE,TRUE,America/New_York,3,27591,1840016200
+Ocracoke,Ocracoke,NC,North Carolina,37095,Hyde,37095,Hyde,35.1264,-75.9212,404,18,polygon,FALSE,FALSE,America/New_York,3,27960,1840013427
+Five Points,Five Points,NC,North Carolina,37093,Hoke,37093,Hoke,35.0154,-79.3513,781,36,polygon,FALSE,FALSE,America/New_York,3,28376,1840013503
+Aquadale,Aquadale,NC,North Carolina,37167,Stanly,37167,Stanly,35.2244,-80.2236,221,26,polygon,FALSE,FALSE,America/New_York,3,28128,1840025823
+Keener,Keener,NC,North Carolina,37163,Sampson,37163,Sampson,35.1131,-78.3094,435,15,polygon,FALSE,FALSE,America/New_York,3,28328,1840013485
+Fair Bluff,Fair Bluff,NC,North Carolina,37047,Columbus,37047,Columbus,34.3126,-79.0333,896,147,polygon,FALSE,TRUE,America/New_York,3,28439,1840016664
+Moravian Falls,Moravian Falls,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.1069,-81.1808,2200,168,polygon,FALSE,FALSE,America/New_York,3,28654 28697,1840013339
+Dallas,Dallas,NC,North Carolina,37071,Gaston,37071,Gaston,35.3167,-81.1826,4698,627,polygon,FALSE,TRUE,America/New_York,3,28034,1840016396
+Garysburg,Garysburg,NC,North Carolina,37131,Northampton,37131,Northampton,36.4479,-77.5603,943,385,polygon,FALSE,TRUE,America/New_York,3,27831,1840016042
+Cove City,Cove City,NC,North Carolina,37049,Craven,37049,Craven,35.189,-77.3206,391,236,polygon,FALSE,TRUE,America/New_York,3,28523,1840016399
+Kelly,Kelly,NC,North Carolina,37017,Bladen,37017,Bladen,34.4639,-78.3109,349,11,polygon,FALSE,FALSE,America/New_York,3,28448,1840013569
+Claremont,Claremont,NC,North Carolina,37035,Catawba,37035,Catawba,35.7102,-81.1533,1398,181,polygon,FALSE,TRUE,America/New_York,3,28610,1840014521
+Pleasant Hill,Pleasant Hill,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.258,-80.8904,751,112,polygon,FALSE,FALSE,America/New_York,3,28621,1840013341
+Ayden,Ayden,NC,North Carolina,37147,Pitt,37147,Pitt,35.4694,-77.4167,5143,516,polygon,FALSE,TRUE,America/New_York,3,28513,1840015388
+Pembroke,Pembroke,NC,North Carolina,37155,Robeson,37155,Robeson,34.6766,-79.1934,7544,366,polygon,FALSE,TRUE,America/New_York,3,28372,1840016541
+Forest Oaks,Forest Oaks,NC,North Carolina,37081,Guilford,37081,Guilford,35.9889,-79.7079,3467,279,polygon,FALSE,FALSE,America/New_York,3,27406 27419,1840033016
+Locust,Locust,NC,North Carolina,37167,Stanly,37167,Stanly,35.2687,-80.4368,3171,150,polygon,FALSE,TRUE,America/New_York,3,28107 28097,1840015437
+Woodfin,Woodfin,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.6458,-82.5914,6489,278,polygon,FALSE,TRUE,America/New_York,3,28804,1840016285
+Mount Olive,Mount Olive,NC,North Carolina,37191,Wayne,37191|37061,Wayne|Duplin,35.1996,-78.0664,5264,639,polygon,FALSE,TRUE,America/New_York,3,28365,1840016321
+Hamlet,Hamlet,NC,North Carolina,37153,Richmond,37153,Richmond,34.889,-79.7098,6314,466,polygon,FALSE,TRUE,America/New_York,3,28345,1840013516
+Mint Hill,Mint Hill,NC,North Carolina,37119,Mecklenburg,37119|37179,Mecklenburg|Union,35.1781,-80.6532,26748,426,polygon,FALSE,TRUE,America/New_York,3,28227,1840016351
+Lake Junaluska,Lake Junaluska,NC,North Carolina,37087,Haywood,37087,Haywood,35.5305,-82.9749,3108,224,polygon,FALSE,FALSE,America/New_York,3,28745 28786 28785,1840013416
+Avery Creek,Avery Creek,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.4651,-82.5719,2320,517,polygon,FALSE,FALSE,America/New_York,3,28704,1840013408
+Kernersville,Kernersville,NC,North Carolina,37067,Forsyth,37067,Forsyth,36.1065,-80.0847,24386,532,polygon,FALSE,TRUE,America/New_York,3,27284 27285,1840016123
+Elm City,Elm City,NC,North Carolina,37195,Wilson,37195,Wilson,35.8087,-77.8622,1292,644,polygon,FALSE,TRUE,America/New_York,3,27822,1840016261
+Haw River,Haw River,NC,North Carolina,37001,Alamance,37001,Alamance,36.0925,-79.3615,2472,330,polygon,FALSE,TRUE,America/New_York,3,27253 27258 27217,1840015329
+Archer Lodge,Archer Lodge,NC,North Carolina,37101,Johnston,37101,Johnston,35.6907,-78.3749,15180,208,polygon,FALSE,TRUE,America/New_York,3,27591 27527,1840025797
+Littleton,Littleton,NC,North Carolina,37083,Halifax,37083,Halifax,36.4343,-77.911,609,247,polygon,FALSE,TRUE,America/New_York,3,27850,1840016062
+Avon,Avon,NC,North Carolina,37055,Dare,37055,Dare,35.3467,-75.5069,848,144,polygon,FALSE,FALSE,America/New_York,3,27915,1840025780
+McLeansville,McLeansville,NC,North Carolina,37081,Guilford,37081,Guilford,36.1045,-79.6554,1002,63,polygon,FALSE,FALSE,America/New_York,3,27301,1840013355
+Northchase,Northchase,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.3049,-77.8754,3500,785,polygon,FALSE,TRUE,America/New_York,3,28405,1840040283
+Cherryville,Cherryville,NC,North Carolina,37071,Gaston,37071,Gaston,35.3844,-81.3781,6579,418,polygon,FALSE,TRUE,America/New_York,3,28021,1840014589
+Gibson,Gibson,NC,North Carolina,37165,Scotland,37165,Scotland,34.7595,-79.6069,507,200,polygon,FALSE,TRUE,America/New_York,3,28343,1840016501
+East Arcadia,East Arcadia,NC,North Carolina,37017,Bladen,37017,Bladen,34.3816,-78.3231,473,81,polygon,FALSE,TRUE,America/New_York,3,28456,1840016563
+Atlantic,Atlantic,NC,North Carolina,37031,Carteret,37031,Carteret,34.8823,-76.344,408,171,polygon,FALSE,FALSE,America/New_York,3,28511,1840025834
+Lattimore,Lattimore,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.3154,-81.6602,447,168,polygon,FALSE,TRUE,America/New_York,3,28089 28150,1840016330
+Severn,Severn,NC,North Carolina,37131,Northampton,37131,Northampton,36.5142,-77.1893,246,93,polygon,FALSE,TRUE,America/New_York,3,27862 27877,1840017703
+Royal Pines,Royal Pines,NC,North Carolina,37021,Buncombe,37021,Buncombe,35.4783,-82.5038,4829,686,polygon,FALSE,FALSE,America/New_York,3,28803 28704,1840013412
+Murraysville,Murraysville,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.2919,-77.8429,15111,677,polygon,FALSE,FALSE,America/New_York,3,28411,1840013631
+Tyro,Tyro,NC,North Carolina,37057,Davidson,37057,Davidson,35.7997,-80.3765,4252,127,polygon,FALSE,FALSE,America/New_York,3,27299 27295,1840024912
+Speed,Speed,NC,North Carolina,37065,Edgecombe,37065,Edgecombe,35.9684,-77.4444,75,102,polygon,FALSE,TRUE,America/New_York,3,27886 27881,1840017753
+Seaboard,Seaboard,NC,North Carolina,37131,Northampton,37131,Northampton,36.4907,-77.4419,555,222,polygon,FALSE,TRUE,America/New_York,3,27876,1840017702
+Walstonburg,Walstonburg,NC,North Carolina,37079,Greene,37079,Greene,35.5961,-77.698,211,200,polygon,FALSE,TRUE,America/New_York,3,27888,1840016314
+Archdale,Archdale,NC,North Carolina,37151,Randolph,37151|37081,Randolph|Guilford,35.9034,-79.9592,11518,507,polygon,FALSE,TRUE,America/New_York,3,27370 27263,1840013399
+Wallace,Wallace,NC,North Carolina,37061,Duplin,37061|37141,Duplin|Pender,34.7378,-77.9909,4389,493,polygon,FALSE,TRUE,America/New_York,3,28466,1840016471
+China Grove,China Grove,NC,North Carolina,37159,Rowan,37159,Rowan,35.5718,-80.579,4202,461,polygon,FALSE,TRUE,America/New_York,3,28023,1840016264
+Lasker,Lasker,NC,North Carolina,37131,Northampton,37131,Northampton,36.3502,-77.3058,109,37,polygon,FALSE,TRUE,America/New_York,3,27845,1840016040
+Altamahaw,Altamahaw,NC,North Carolina,37001,Alamance,37001,Alamance,36.1868,-79.5051,332,94,polygon,FALSE,FALSE,America/New_York,3,27244 27202,1840013358
+Elkin,Elkin,NC,North Carolina,37171,Surry,37171|37193,Surry|Wilkes,36.2621,-80.8443,6483,226,polygon,FALSE,TRUE,America/New_York,3,28621,1840016031
+Powellsville,Powellsville,NC,North Carolina,37015,Bertie,37015,Bertie,36.2253,-76.9316,249,269,polygon,FALSE,TRUE,America/New_York,3,27924 27967,1840017737
+Harrellsville,Harrellsville,NC,North Carolina,37091,Hertford,37091,Hertford,36.3016,-76.7918,100,133,polygon,FALSE,TRUE,America/New_York,3,27942,1840016047
+Cashiers,Cashiers,NC,North Carolina,37099,Jackson,37099,Jackson,35.1116,-83.0976,64,23,polygon,FALSE,FALSE,America/New_York,3,28717,1840013442
+Midland,Midland,NC,North Carolina,37025,Cabarrus,37025|37119,Cabarrus|Mecklenburg,35.245,-80.521,3615,132,polygon,FALSE,TRUE,America/New_York,3,28107,1840016362
+New Bern,New Bern,NC,North Carolina,37049,Craven,37049,Craven,35.0955,-77.0723,50617,403,polygon,FALSE,TRUE,America/New_York,3,28560 28562 28561,1840014591
+Chimney Rock Village,Chimney Rock Village,NC,North Carolina,37161,Rutherford,37161,Rutherford,35.4503,-82.255,116,13,polygon,FALSE,TRUE,America/New_York,3,28720,1840033006
+Trinity,Trinity,NC,North Carolina,37151,Randolph,37151,Randolph,35.8756,-80.0093,6628,151,polygon,FALSE,TRUE,America/New_York,3,27370 27263 27360,1840015374
+Richfield,Richfield,NC,North Carolina,37167,Stanly,37167,Stanly,35.4703,-80.2575,612,105,polygon,FALSE,TRUE,America/New_York,3,28137,1840017855
+Brookford,Brookford,NC,North Carolina,37035,Catawba,37035,Catawba,35.7031,-81.3453,376,240,polygon,FALSE,TRUE,America/New_York,3,28602,1840015390
+Orrum,Orrum,NC,North Carolina,37155,Robeson,37155,Robeson,34.4667,-79.0089,89,71,polygon,FALSE,TRUE,America/New_York,3,28369,1840016539
+Seven Lakes,Seven Lakes,NC,North Carolina,37125,Moore,37125,Moore,35.2647,-79.5865,4512,207,polygon,FALSE,FALSE,America/New_York,3,27376,1840013443
+Bayview,Bayview,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.4414,-76.7928,247,90,polygon,FALSE,FALSE,America/New_York,3,27808,1840025806
+Camden,Camden,NC,North Carolina,37029,Camden,37029,Camden,36.325,-76.17,779,190,polygon,FALSE,FALSE,America/New_York,3,27921,1840024899
+Roseboro,Roseboro,NC,North Carolina,37163,Sampson,37163,Sampson,34.9536,-78.5121,1171,373,polygon,FALSE,TRUE,America/New_York,3,28382,1840017873
+Seven Springs,Seven Springs,NC,North Carolina,37191,Wayne,37191,Wayne,35.2248,-77.8453,110,125,polygon,FALSE,TRUE,America/New_York,3,28578,1840017836
+Mayodan,Mayodan,NC,North Carolina,37157,Rockingham,37157,Rockingham,36.421,-79.9675,4259,323,polygon,FALSE,TRUE,America/New_York,3,27027,1840016054
+Northwest,Northwest,NC,North Carolina,37019,Brunswick,37019,Brunswick,34.3149,-78.1454,778,42,polygon,FALSE,TRUE,America/New_York,3,28451 28456,1840014706
+Columbia,Columbia,NC,North Carolina,37177,Tyrrell,37177,Tyrrell,35.9201,-76.242,801,257,polygon,FALSE,TRUE,America/New_York,3,27925,1840016239
+Sunbury,Sunbury,NC,North Carolina,37073,Gates,37073,Gates,36.4469,-76.6127,167,26,polygon,FALSE,FALSE,America/New_York,3,27979,1840025762
+Bogue,Bogue,NC,North Carolina,37031,Carteret,37031,Carteret,34.698,-77.0311,700,98,polygon,FALSE,TRUE,America/New_York,3,28570,1840015497
+Kenly,Kenly,NC,North Carolina,37101,Johnston,37101|37195,Johnston|Wilson,35.5886,-78.1368,1519,339,polygon,FALSE,TRUE,America/New_York,3,27542,1840016288
+North Topsail Beach,North Topsail Beach,NC,North Carolina,37133,Onslow,37133,Onslow,34.4931,-77.4338,726,45,polygon,FALSE,TRUE,America/New_York,3,28460,1840016533
+Lumberton,Lumberton,NC,North Carolina,37155,Robeson,37155,Robeson,34.6312,-79.0186,29047,458,polygon,FALSE,TRUE,America/New_York,3,28358 28360 28359,1840015531
+Clyde,Clyde,NC,North Carolina,37087,Haywood,37087,Haywood,35.533,-82.9107,1282,570,polygon,FALSE,TRUE,America/New_York,3,28721,1840016296
+Buxton,Buxton,NC,North Carolina,37055,Dare,37055,Dare,35.2608,-75.5392,1436,187,polygon,FALSE,FALSE,America/New_York,3,27920,1840025781
+Enfield,Enfield,NC,North Carolina,37083,Halifax,37083,Halifax,36.1802,-77.6678,2476,743,polygon,FALSE,TRUE,America/New_York,3,27823,1840016063
+Enochville,Enochville,NC,North Carolina,37159,Rowan,37159,Rowan,35.5205,-80.6646,2903,249,polygon,FALSE,FALSE,America/New_York,3,28081,1840013069
+Scotch Meadows,Scotch Meadows,NC,North Carolina,37165,Scotland,37165,Scotland,34.689,-79.5179,666,754,polygon,FALSE,TRUE,America/New_York,3,28352,1840043083
+Kill Devil Hills,Kill Devil Hills,NC,North Carolina,37055,Dare,37055,Dare,36.0167,-75.6699,20334,489,polygon,FALSE,TRUE,America/New_York,3,27948,1840016154
+Lilesville,Lilesville,NC,North Carolina,37007,Anson,37007,Anson,34.9675,-79.9845,486,188,polygon,FALSE,TRUE,America/New_York,3,28091,1840016447
+Gastonia,Gastonia,NC,North Carolina,37071,Gaston,37071,Gaston,35.2494,-81.1853,180974,572,polygon,FALSE,TRUE,America/New_York,2,28054 28056 28052,1840013468
+Rennert,Rennert,NC,North Carolina,37155,Robeson,37155,Robeson,34.8141,-79.0791,381,133,polygon,FALSE,TRUE,America/New_York,3,28386,1840017908
+James City,James City,NC,North Carolina,37049,Craven,37049,Craven,35.0592,-77.02,5882,294,polygon,FALSE,FALSE,America/New_York,3,28560 28562 28564,1840013471
+Banner Elk,Banner Elk,NC,North Carolina,37011,Avery,37011,Avery,36.1587,-81.8679,1129,228,polygon,FALSE,TRUE,America/New_York,3,28604,1840015320
+Porters Neck,Porters Neck,NC,North Carolina,37129,New Hanover,37129,New Hanover,34.2942,-77.7695,7483,533,polygon,FALSE,TRUE,America/New_York,3,28411,1840040293
+Halifax,Halifax,NC,North Carolina,37083,Halifax,37083,Halifax,36.3255,-77.5901,211,178,polygon,FALSE,TRUE,America/New_York,3,27839,1840016064
+Kenansville,Kenansville,NC,North Carolina,37061,Duplin,37061,Duplin,34.9596,-77.9661,840,153,polygon,FALSE,TRUE,America/New_York,3,28349,1840016466
+Randleman,Randleman,NC,North Carolina,37151,Randolph,37151,Randolph,35.8165,-79.8066,4131,392,polygon,FALSE,TRUE,America/New_York,3,27317,1840014512
+Black Creek,Black Creek,NC,North Carolina,37195,Wilson,37195,Wilson,35.6366,-77.9331,772,415,polygon,FALSE,TRUE,America/New_York,3,27813,1840015382
+Hiddenite,Hiddenite,NC,North Carolina,37003,Alexander,37003,Alexander,35.9053,-81.086,361,87,polygon,FALSE,FALSE,America/New_York,3,28636,1840025788
+Everetts,Everetts,NC,North Carolina,37117,Martin,37117,Martin,35.8347,-77.1723,144,123,polygon,FALSE,TRUE,America/New_York,3,27825 27892,1840016203
+Rocky Mount,Rocky Mount,NC,North Carolina,37127,Nash,37127|37065,Nash|Edgecombe,35.9676,-77.8047,64732,476,polygon,FALSE,TRUE,America/New_York,3,27804 27803 27801 27815,1840014490
+Swepsonville,Swepsonville,NC,North Carolina,37001,Alamance,37001,Alamance,36.0285,-79.355,1354,366,polygon,FALSE,TRUE,America/New_York,3,27253 27258,1840016145
+Hampstead,Hampstead,NC,North Carolina,37141,Pender,37141,Pender,34.3627,-77.7318,5200,99,polygon,FALSE,FALSE,America/New_York,3,28443,1840025847
+Ossipee,Ossipee,NC,North Carolina,37001,Alamance,37001,Alamance,36.1678,-79.5135,572,363,polygon,FALSE,TRUE,America/New_York,3,27244,1840016146
+Greensboro,Greensboro,NC,North Carolina,37081,Guilford,37081,Guilford,36.0956,-79.8268,335588,869,polygon,FALSE,TRUE,America/New_York,2,27410 27235 27455 27214 27408 27409 27403 27401 27406 27407 27405 27402 27404 27411 27412 27413 27417 27420 27427 27429 27435 27438 27495 27497 27498 27499,1840013356
+Deercroft,Deercroft,NC,North Carolina,37165,Scotland,37165,Scotland,34.9592,-79.4351,453,135,polygon,FALSE,TRUE,America/New_York,3,28396,1840043056
+Alliance,Alliance,NC,North Carolina,37137,Pamlico,37137,Pamlico,35.1435,-76.8084,756,139,polygon,FALSE,TRUE,America/New_York,3,28515 28529 28509,1840015468
+Conway,Conway,NC,North Carolina,37131,Northampton,37131,Northampton,36.4371,-77.2288,749,158,polygon,FALSE,TRUE,America/New_York,3,27820,1840016041
+Washington,Washington,NC,North Carolina,37013,Beaufort,37013,Beaufort,35.5587,-77.0546,16138,451,polygon,FALSE,TRUE,America/New_York,3,27817 27889,1840015401
+Weddington,Weddington,NC,North Carolina,37179,Union,37179|37119,Union|Mecklenburg,35.0228,-80.7383,10773,237,polygon,FALSE,TRUE,America/New_York,3,28104 28173,1840016459
+Waco,Waco,NC,North Carolina,37045,Cleveland,37045,Cleveland,35.3617,-81.4287,312,153,polygon,FALSE,TRUE,America/New_York,3,28021 28169 28150,1840016337
+Atkinson,Atkinson,NC,North Carolina,37141,Pender,37141,Pender,34.5275,-78.1697,345,134,polygon,FALSE,TRUE,America/New_York,3,28421,1840015547
+Pleasant Garden,Pleasant Garden,NC,North Carolina,37081,Guilford,37081,Guilford,35.9595,-79.7598,4869,124,polygon,FALSE,TRUE,America/New_York,3,27406 27313,1840016142
+Stoneville,Stoneville,NC,North Carolina,37157,Rockingham,37157,Rockingham,36.4653,-79.9064,1249,337,polygon,FALSE,TRUE,America/New_York,3,27048,1840016055
+Cricket,Cricket,NC,North Carolina,37193,Wilkes,37193,Wilkes,36.1687,-81.1932,2035,219,polygon,FALSE,FALSE,America/New_York,3,28659,1840013336
+Laurinburg,Laurinburg,NC,North Carolina,37165,Scotland,37165,Scotland,34.7596,-79.4781,20093,467,polygon,FALSE,TRUE,America/New_York,3,28352 28353,1840014631
+Holly Springs,Holly Springs,NC,North Carolina,37183,Wake,37183,Wake,35.654,-78.8403,35223,834,polygon,FALSE,TRUE,America/New_York,3,27539 27540,1840016193
+Sharpsburg,Sharpsburg,NC,North Carolina,37127,Nash,37127|37195|37065,Nash|Wilson|Edgecombe,35.8663,-77.8306,2017,766,polygon,FALSE,TRUE,America/New_York,3,27878,1840017746
+Carthage,Carthage,NC,North Carolina,37125,Moore,37125,Moore,35.3223,-79.4116,2463,144,polygon,FALSE,TRUE,America/New_York,3,28327,1840016355
+Delway,Delway,NC,North Carolina,37163,Sampson,37163,Sampson,34.8102,-78.2169,44,1,polygon,FALSE,FALSE,America/New_York,3,28458 28453,1840013077
+Maury,Maury,NC,North Carolina,37079,Greene,37079,Greene,35.4792,-77.5902,1401,513,polygon,FALSE,FALSE,America/New_York,3,28554 28580,1840025813
+Sneads Ferry,Sneads Ferry,NC,North Carolina,37133,Onslow,37133,Onslow,34.5564,-77.3824,2910,295,polygon,FALSE,FALSE,America/New_York,3,28460,1840013557
+Scotland Neck,Scotland Neck,NC,North Carolina,37083,Halifax,37083,Halifax,36.1309,-77.4214,1899,617,polygon,FALSE,TRUE,America/New_York,3,27874,1840017705
+Shannon,Shannon,NC,North Carolina,37155,Robeson,37155,Robeson,34.8477,-79.1395,343,129,polygon,FALSE,FALSE,America/New_York,3,28386,1840013560
+Whitsett,Whitsett,NC,North Carolina,37081,Guilford,37081,Guilford,36.0784,-79.5721,621,92,polygon,FALSE,TRUE,America/New_York,3,27377 27249,1840016140
+Star,Star,NC,North Carolina,37123,Montgomery,37123,Montgomery,35.3992,-79.7832,857,256,polygon,FALSE,TRUE,America/New_York,3,27356,1840016360
+Raeford,Raeford,NC,North Carolina,37093,Hoke,37093,Hoke,34.9809,-79.2291,4934,444,polygon,FALSE,TRUE,America/New_York,3,28376,1840014612
+Bermuda Run,Bermuda Run,NC,North Carolina,37059,Davie,37059,Davie,36.0032,-80.431,2593,439,polygon,FALSE,TRUE,America/New_York,3,27006,1840015357
+Jackson,Jackson,NC,North Carolina,37131,Northampton,37131,Northampton,36.3901,-77.4193,466,178,polygon,FALSE,TRUE,America/New_York,3,27845,1840016039
+Calabash,Calabash,NC,North Carolina,37019,Brunswick,37019,Brunswick,33.8945,-78.5571,2158,249,polygon,FALSE,TRUE,America/New_York,3,28467 28468,1840015580
+Edneyville,Edneyville,NC,North Carolina,37089,Henderson,37089,Henderson,35.4025,-82.3371,2128,76,polygon,FALSE,FALSE,America/New_York,3,28792 28727,1840024954
+Mooresville,Mooresville,NC,North Carolina,37097,Iredell,37097,Iredell,35.5849,-80.8266,37820,597,polygon,FALSE,TRUE,America/New_York,3,28117 28115,1840016215
+Summerfield,Summerfield,NC,North Carolina,37081,Guilford,37081,Guilford,36.1973,-79.8999,11198,163,polygon,FALSE,TRUE,America/New_York,3,27358,1840016139
+Simpson,Simpson,NC,North Carolina,37147,Pitt,37147,Pitt,35.5752,-77.2789,483,500,polygon,FALSE,TRUE,America/New_York,3,27858 27879,1840017788
